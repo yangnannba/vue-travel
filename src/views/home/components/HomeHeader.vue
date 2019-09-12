@@ -2,7 +2,7 @@
   <div class="HomeHeader">
     <div class="fanhui"><i class="iconfont icon-zuojiantou"></i></div>
     <div class="myinput"><i class="iconfont icon-BAI-fangdajing"></i><input type="text" placeholder="请输入城市" /></div>
-    <div class="dizhi">北京 <i class="iconfont icon-xiajiantou"></i></div>
+    <div class="dizhi" @click="gotoCity">{{$store.state.city}} <i class="iconfont icon-xiajiantou"></i></div>
 
   </div>
 </template>
@@ -12,6 +12,11 @@ export default {
   name: 'HomeHheader',
   data () {
     return {
+    }
+  },
+  methods: {
+    gotoCity: function () {
+      this.$router.push({path: '/city'});
     }
   }
 }
@@ -38,7 +43,7 @@ export default {
   }
   .myinput{
     flex:1;
-    padding: 0.2rem;
+    padding: 0.25rem;
     position: relative;
     i{
       position: absolute;
@@ -59,9 +64,9 @@ export default {
   }
   .dizhi{
     color: #fff;
-  
     line-height: px2rem(70px);
-    min-width: px2rem(100px);
+    min-width: 0;
+    padding-right:0.2rem;
     i{
   font-size: 0.6rem;
     }

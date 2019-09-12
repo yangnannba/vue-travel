@@ -3,7 +3,7 @@
     $rem:40px;
     @return ($px/$rem)+rem;
 }
-$color:#006cb6;
+$color:#00bcd4;
 
 @mixin radius($val){
     -webkit-border-radius:$val;    
@@ -25,4 +25,17 @@ $color:#006cb6;
 %font-size-no{
     font-size: 0;
     -webkit-text-size-adjust: none;
+}
+
+
+%ellipsis{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+%borderbox{
+    -webkit-box-sizing: border-box;   
+    -moz-box-sizing: border-box;   
+    box-sizing: border-box;
 }

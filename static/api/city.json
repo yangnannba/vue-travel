@@ -4,3874 +4,3874 @@
 		"hotCities": [{
 			"id": 1,
 			"spell": "beijing",
-			"name": "±±¾©"
+			"name": "åŒ—äº¬"
 		}, {
 			"id": 3,
 			"spell": "shanghai",
-			"name": "ÉÏº£"
+			"name": "ä¸Šæµ·"
 		}, {
 			"id": 47,
 			"spell": "xian",
-			"name": "Î÷°²"
+			"name": "è¥¿å®‰"
 		}, {
 			"id": 239,
 			"spell": "sanya",
-			"name": "ÈıÑÇ"
+			"name": "ä¸‰äºš"
 		}, {
 			"id": 188,
 			"spell": "lijiang",
-			"name": "Àö½­"
+			"name": "ä¸½æ±Ÿ"
 		}, {
 			"id": 125,
 			"spell": "guilin",
-			"name": "¹ğÁÖ"
+			"name": "æ¡‚æ—"
 		}, {
       "id": 240,
       "spell": "xianggang",
-      "name": "Ïã¸Û"
+      "name": "é¦™æ¸¯"
     }, {
       "id": 241,
       "spell": "chengdu",
-      "name": "³É¶¼"
+      "name": "æˆéƒ½"
     }, {
       "id": 242,
       "spell": "shenzheng",
-      "name": "ÉîÛÚ"
+      "name": "æ·±åœ³"
     }],
 		"cities": {
 			"A": [{
 				"id": 56,
 				"spell": "aba",
-				"name": "°¢°Ó"
+				"name": "é˜¿å"
 			}, {
 				"id": 57,
 				"spell": "akesu",
-				"name": "°¢¿ËËÕ"
+				"name": "é˜¿å…‹è‹"
 			}, {
 				"id": 58,
 				"spell": "alashanmeng",
-				"name": "°¢À­ÉÆÃË"
+				"name": "é˜¿æ‹‰å–„ç›Ÿ"
 			}, {
 				"id": 59,
 				"spell": "aletai",
-				"name": "°¢ÀÕÌ©"
+				"name": "é˜¿å‹’æ³°"
 			}, {
 				"id": 60,
 				"spell": "ali",
-				"name": "°¢Àï"
+				"name": "é˜¿é‡Œ"
 			}, {
 				"id": 61,
 				"spell": "ankang",
-				"name": "°²¿µ"
+				"name": "å®‰åº·"
 			}, {
 				"id": 62,
 				"spell": "anqing",
-				"name": "°²Çì"
+				"name": "å®‰åº†"
 			}, {
 				"id": 63,
 				"spell": "anshan",
-				"name": "°°É½"
+				"name": "éå±±"
 			}, {
 				"id": 64,
 				"spell": "anshun",
-				"name": "°²Ë³"
+				"name": "å®‰é¡º"
 			}, {
 				"id": 65,
 				"spell": "anyang",
-				"name": "°²Ñô"
+				"name": "å®‰é˜³"
 			}, {
 				"id": 338,
 				"spell": "acheng",
-				"name": "°¢³Ç"
+				"name": "é˜¿åŸ"
 			}, {
 				"id": 339,
 				"spell": "anfu",
-				"name": "°²¸£"
+				"name": "å®‰ç¦"
 			}, {
 				"id": 340,
 				"spell": "anji",
-				"name": "°²¼ª"
+				"name": "å®‰å‰"
 			}, {
 				"id": 341,
 				"spell": "anning",
-				"name": "°²Äş"
+				"name": "å®‰å®"
 			}, {
 				"id": 342,
 				"spell": "anqiu",
-				"name": "°²Çğ"
+				"name": "å®‰ä¸˜"
 			}, {
 				"id": 343,
 				"spell": "anxi",
-				"name": "°²Ïª"
+				"name": "å®‰æºª"
 			}, {
 				"id": 344,
 				"spell": "anyi",
-				"name": "°²Òå"
+				"name": "å®‰ä¹‰"
 			}, {
 				"id": 345,
 				"spell": "anyuan",
-				"name": "°²Ô¶"
+				"name": "å®‰è¿œ"
 			}],
 			"B": [{
 				"id": 1,
 				"spell": "beijing",
-				"name": "±±¾©"
+				"name": "åŒ—äº¬"
 			}, {
 				"id": 66,
 				"spell": "baicheng",
-				"name": "°×³Ç"
+				"name": "ç™½åŸ"
 			}, {
 				"id": 67,
 				"spell": "baise",
-				"name": "°ÙÉ«"
+				"name": "ç™¾è‰²"
 			}, {
 				"id": 68,
 				"spell": "baishan",
-				"name": "°×É½"
+				"name": "ç™½å±±"
 			}, {
 				"id": 69,
 				"spell": "baiyin",
-				"name": "°×Òø"
+				"name": "ç™½é“¶"
 			}, {
 				"id": 70,
 				"spell": "bangbu",
-				"name": "°ö²º"
+				"name": "èšŒåŸ "
 			}, {
 				"id": 71,
 				"spell": "baoding",
-				"name": "±£¶¨"
+				"name": "ä¿å®š"
 			}, {
 				"id": 72,
 				"spell": "baoji",
-				"name": "±¦¼¦"
+				"name": "å®é¸¡"
 			}, {
 				"id": 73,
 				"spell": "baoshan",
-				"name": "±£É½"
+				"name": "ä¿å±±"
 			}, {
 				"id": 74,
 				"spell": "baotou",
-				"name": "°üÍ·"
+				"name": "åŒ…å¤´"
 			}, {
 				"id": 75,
 				"spell": "bayannaoer",
-				"name": "°ÍÑåÄ×¶û"
+				"name": "å·´å½¦æ·–å°”"
 			}, {
 				"id": 76,
 				"spell": "bayinguoleng",
-				"name": "°ÍÒô¹ùÀã"
+				"name": "å·´éŸ³éƒ­æ¥"
 			}, {
 				"id": 77,
 				"spell": "bazhong",
-				"name": "°ÍÖĞ"
+				"name": "å·´ä¸­"
 			}, {
 				"id": 78,
 				"spell": "beihai",
-				"name": "±±º£"
+				"name": "åŒ—æµ·"
 			}, {
 				"id": 79,
 				"spell": "benxi",
-				"name": "±¾Ïª"
+				"name": "æœ¬æºª"
 			}, {
 				"id": 80,
 				"spell": "bijie",
-				"name": "±Ï½Ú"
+				"name": "æ¯•èŠ‚"
 			}, {
 				"id": 81,
 				"spell": "binzhou",
-				"name": "±õÖİ"
+				"name": "æ»¨å·"
 			}, {
 				"id": 82,
 				"spell": "boertala",
-				"name": "²©¶ûËşÀ­"
+				"name": "åšå°”å¡”æ‹‰"
 			}, {
 				"id": 83,
 				"spell": "bozhou",
-				"name": "ÙñÖİ"
+				"name": "äº³å·"
 			}, {
 				"id": 346,
 				"spell": "baoying",
-				"name": "±¦Ó¦"
+				"name": "å®åº”"
 			}, {
 				"id": 347,
 				"spell": "bayan",
-				"name": "°ÍÑå"
+				"name": "å·´å½¦"
 			}, {
 				"id": 348,
 				"spell": "binhai",
-				"name": "±õº£"
+				"name": "æ»¨æµ·"
 			}, {
 				"id": 349,
 				"spell": "binxian",
-				"name": "±öÏØ"
+				"name": "å®¾å¿"
 			}, {
 				"id": 350,
 				"spell": "binyang",
-				"name": "±öÑô"
+				"name": "å®¾é˜³"
 			}, {
 				"id": 351,
 				"spell": "bishan",
-				"name": "èµÉ½"
+				"name": "ç’§å±±"
 			}, {
 				"id": 352,
 				"spell": "boai",
-				"name": "²©°®"
+				"name": "åšçˆ±"
 			}, {
 				"id": 353,
 				"spell": "boluo",
-				"name": "²©ÂŞ"
+				"name": "åšç½—"
 			}, {
 				"id": 354,
 				"spell": "boxing",
-				"name": "²©ĞË"
+				"name": "åšå…´"
 			}],
 			"C": [{
 				"id": 2,
 				"spell": "chongqing",
-				"name": "ÖØÇì"
+				"name": "é‡åº†"
 			}, {
 				"id": 5,
 				"spell": "changchun",
-				"name": "³¤´º"
+				"name": "é•¿æ˜¥"
 			}, {
 				"id": 6,
 				"spell": "changsha",
-				"name": "³¤É³"
+				"name": "é•¿æ²™"
 			}, {
 				"id": 7,
 				"spell": "changzhou",
-				"name": "³£Öİ"
+				"name": "å¸¸å·"
 			}, {
 				"id": 8,
 				"spell": "chengdu",
-				"name": "³É¶¼"
+				"name": "æˆéƒ½"
 			}, {
 				"id": 84,
 				"spell": "cangzhou",
-				"name": "²×Öİ"
+				"name": "æ²§å·"
 			}, {
 				"id": 85,
 				"spell": "changde",
-				"name": "³£µÂ"
+				"name": "å¸¸å¾·"
 			}, {
 				"id": 86,
 				"spell": "changdu",
-				"name": "²ı¶¼"
+				"name": "æ˜Œéƒ½"
 			}, {
 				"id": 87,
 				"spell": "changji",
-				"name": "²ı¼ª"
+				"name": "æ˜Œå‰"
 			}, {
 				"id": 88,
 				"spell": "changzhi",
-				"name": "³¤ÖÎ"
+				"name": "é•¿æ²»"
 			}, {
 				"id": 89,
 				"spell": "chaohu",
-				"name": "³²ºş"
+				"name": "å·¢æ¹–"
 			}, {
 				"id": 90,
 				"spell": "chaoyang",
-				"name": "³¯Ñô"
+				"name": "æœé˜³"
 			}, {
 				"id": 91,
 				"spell": "chaozhou",
-				"name": "³±Öİ"
+				"name": "æ½®å·"
 			}, {
 				"id": 92,
 				"spell": "chengde",
-				"name": "³ĞµÂ"
+				"name": "æ‰¿å¾·"
 			}, {
 				"id": 93,
 				"spell": "chenzhou",
-				"name": "³»Öİ"
+				"name": "éƒ´å·"
 			}, {
 				"id": 94,
 				"spell": "chifeng",
-				"name": "³à·å"
+				"name": "èµ¤å³°"
 			}, {
 				"id": 95,
 				"spell": "chizhou",
-				"name": "³ØÖİ"
+				"name": "æ± å·"
 			}, {
 				"id": 96,
 				"spell": "chongzuo",
-				"name": "³ç×ó"
+				"name": "å´‡å·¦"
 			}, {
 				"id": 97,
 				"spell": "chuxiong",
-				"name": "³şĞÛ"
+				"name": "æ¥šé›„"
 			}, {
 				"id": 98,
 				"spell": "chuzhou",
-				"name": "³üÖİ"
+				"name": "æ»å·"
 			}, {
 				"id": 355,
 				"spell": "cangnan",
-				"name": "²ÔÄÏ"
+				"name": "è‹å—"
 			}, {
 				"id": 356,
 				"spell": "cangshan",
-				"name": "²ÔÉ½"
+				"name": "è‹å±±"
 			}, {
 				"id": 357,
 				"spell": "caoxian",
-				"name": "²ÜÏØ"
+				"name": "æ›¹å¿"
 			}, {
 				"id": 358,
 				"spell": "changdao",
-				"name": "³¤µº"
+				"name": "é•¿å²›"
 			}, {
 				"id": 359,
 				"spell": "changfeng",
-				"name": "³¤·á"
+				"name": "é•¿ä¸°"
 			}, {
 				"id": 360,
 				"spell": "changhai",
-				"name": "³¤º£"
+				"name": "é•¿æµ·"
 			}, {
 				"id": 361,
 				"spell": "changle",
-				"name": "³¤ÀÖ"
+				"name": "é•¿ä¹"
 			}, {
 				"id": 362,
 				"spell": "changle",
-				"name": "²ıÀÖ"
+				"name": "æ˜Œä¹"
 			}, {
 				"id": 363,
 				"spell": "changshan",
-				"name": "³£É½"
+				"name": "å¸¸å±±"
 			}, {
 				"id": 364,
 				"spell": "changshu",
-				"name": "³£Êì"
+				"name": "å¸¸ç†Ÿ"
 			}, {
 				"id": 365,
 				"spell": "changtai",
-				"name": "³¤Ì©"
+				"name": "é•¿æ³°"
 			}, {
 				"id": 366,
 				"spell": "changting",
-				"name": "³¤Í¡"
+				"name": "é•¿æ±€"
 			}, {
 				"id": 367,
 				"spell": "changxing",
-				"name": "³¤ĞË"
+				"name": "é•¿å…´"
 			}, {
 				"id": 368,
 				"spell": "changyi",
-				"name": "²ıÒØ"
+				"name": "æ˜Œé‚‘"
 			}, {
 				"id": 369,
 				"spell": "chaoan",
-				"name": "³±°²"
+				"name": "æ½®å®‰"
 			}, {
 				"id": 370,
 				"spell": "chenggong",
-				"name": "³Ê¹±"
+				"name": "å‘ˆè´¡"
 			}, {
 				"id": 371,
 				"spell": "chengkou",
-				"name": "³Ç¿Ú"
+				"name": "åŸå£"
 			}, {
 				"id": 372,
 				"spell": "chengwu",
-				"name": "³ÉÎä"
+				"name": "æˆæ­¦"
 			}, {
 				"id": 373,
 				"spell": "chiping",
-				"name": "ÜİÆ½"
+				"name": "èŒŒå¹³"
 			}, {
 				"id": 374,
 				"spell": "chongren",
-				"name": "³çÈÊ"
+				"name": "å´‡ä»"
 			}, {
 				"id": 375,
 				"spell": "chongyi",
-				"name": "³çÒå"
+				"name": "å´‡ä¹‰"
 			}, {
 				"id": 376,
 				"spell": "chongzhou",
-				"name": "³çÖİ"
+				"name": "å´‡å·"
 			}, {
 				"id": 377,
 				"spell": "chunan",
-				"name": "´¾°²"
+				"name": "æ·³å®‰"
 			}, {
 				"id": 378,
 				"spell": "cixi",
-				"name": "´ÈÏª"
+				"name": "æ…ˆæºª"
 			}, {
 				"id": 379,
 				"spell": "conghua",
-				"name": "´Ó»¯"
+				"name": "ä»åŒ–"
 			}, {
 				"id": 380,
 				"spell": "congyang",
-				"name": "èÈÑô"
+				"name": "æé˜³"
 			}],
 			"D": [{
 				"id": 9,
 				"spell": "dalian",
-				"name": "´óÁ¬"
+				"name": "å¤§è¿"
 			}, {
 				"id": 10,
 				"spell": "dongguan",
-				"name": "¶«İ¸"
+				"name": "ä¸œè"
 			}, {
 				"id": 99,
 				"spell": "dali",
-				"name": "´óÀí"
+				"name": "å¤§ç†"
 			}, {
 				"id": 100,
 				"spell": "dandong",
-				"name": "µ¤¶«"
+				"name": "ä¸¹ä¸œ"
 			}, {
 				"id": 101,
 				"spell": "daqing",
-				"name": "´óÇì"
+				"name": "å¤§åº†"
 			}, {
 				"id": 102,
 				"spell": "datong",
-				"name": "´óÍ¬"
+				"name": "å¤§åŒ"
 			}, {
 				"id": 103,
 				"spell": "daxinganling",
-				"name": "´óĞË°²Áë"
+				"name": "å¤§å…´å®‰å²­"
 			}, {
 				"id": 104,
 				"spell": "dazhou",
-				"name": "´ïÖİ"
+				"name": "è¾¾å·"
 			}, {
 				"id": 105,
 				"spell": "dehong",
-				"name": "µÂºê"
+				"name": "å¾·å®"
 			}, {
 				"id": 106,
 				"spell": "deyang",
-				"name": "µÂÑô"
+				"name": "å¾·é˜³"
 			}, {
 				"id": 107,
 				"spell": "dezhou",
-				"name": "µÂÖİ"
+				"name": "å¾·å·"
 			}, {
 				"id": 108,
 				"spell": "dingxi",
-				"name": "¶¨Î÷"
+				"name": "å®šè¥¿"
 			}, {
 				"id": 109,
 				"spell": "diqing",
-				"name": "µÏÇì"
+				"name": "è¿ªåº†"
 			}, {
 				"id": 110,
 				"spell": "dongying",
-				"name": "¶«Óª"
+				"name": "ä¸œè¥"
 			}, {
 				"id": 381,
 				"spell": "dafeng",
-				"name": "´ó·á"
+				"name": "å¤§ä¸°"
 			}, {
 				"id": 382,
 				"spell": "daishan",
-				"name": "á·É½"
+				"name": "å²±å±±"
 			}, {
 				"id": 383,
 				"spell": "dangshan",
-				"name": "í¸É½"
+				"name": "ç €å±±"
 			}, {
 				"id": 384,
 				"spell": "dangtu",
-				"name": "µ±Í¿"
+				"name": "å½“æ¶‚"
 			}, {
 				"id": 385,
 				"spell": "danxian",
-				"name": "µ¥ÏØ"
+				"name": "å•å¿"
 			}, {
 				"id": 386,
 				"spell": "danyang",
-				"name": "µ¤Ñô"
+				"name": "ä¸¹é˜³"
 			}, {
 				"id": 387,
 				"spell": "dapu",
-				"name": "´óÆÒ"
+				"name": "å¤§åŸ”"
 			}, {
 				"id": 388,
 				"spell": "datian",
-				"name": "´óÌï"
+				"name": "å¤§ç”°"
 			}, {
 				"id": 389,
 				"spell": "dayi",
-				"name": "´óÒØ"
+				"name": "å¤§é‚‘"
 			}, {
 				"id": 390,
 				"spell": "dayu",
-				"name": "´óÓà"
+				"name": "å¤§ä½™"
 			}, {
 				"id": 391,
 				"spell": "dazu",
-				"name": "´ó×ã"
+				"name": "å¤§è¶³"
 			}, {
 				"id": 392,
 				"spell": "dean",
-				"name": "µÂ°²"
+				"name": "å¾·å®‰"
 			}, {
 				"id": 393,
 				"spell": "dehua",
-				"name": "µÂ»¯"
+				"name": "å¾·åŒ–"
 			}, {
 				"id": 394,
 				"spell": "dehui",
-				"name": "µÂ»İ"
+				"name": "å¾·æƒ "
 			}, {
 				"id": 395,
 				"spell": "dengfeng",
-				"name": "µÇ·â"
+				"name": "ç™»å°"
 			}, {
 				"id": 396,
 				"spell": "deqing",
-				"name": "µÂÇå"
+				"name": "å¾·æ¸…"
 			}, {
 				"id": 397,
 				"spell": "deqing",
-				"name": "µÂÇì"
+				"name": "å¾·åº†"
 			}, {
 				"id": 398,
 				"spell": "dexing",
-				"name": "µÂĞË"
+				"name": "å¾·å…´"
 			}, {
 				"id": 399,
 				"spell": "dianbai",
-				"name": "µç°×"
+				"name": "ç”µç™½"
 			}, {
 				"id": 400,
 				"spell": "dianjiang",
-				"name": "µæ½­"
+				"name": "å«æ±Ÿ"
 			}, {
 				"id": 401,
 				"spell": "dingnan",
-				"name": "¶¨ÄÏ"
+				"name": "å®šå—"
 			}, {
 				"id": 402,
 				"spell": "dingtao",
-				"name": "¶¨ÌÕ"
+				"name": "å®šé™¶"
 			}, {
 				"id": 403,
 				"spell": "dingyuan",
-				"name": "¶¨Ô¶"
+				"name": "å®šè¿œ"
 			}, {
 				"id": 404,
 				"spell": "donga",
-				"name": "¶«°¢"
+				"name": "ä¸œé˜¿"
 			}, {
 				"id": 405,
 				"spell": "donghai",
-				"name": "¶«º£"
+				"name": "ä¸œæµ·"
 			}, {
 				"id": 406,
 				"spell": "dongming",
-				"name": "¶«Ã÷"
+				"name": "ä¸œæ˜"
 			}, {
 				"id": 407,
 				"spell": "dongping",
-				"name": "¶«Æ½"
+				"name": "ä¸œå¹³"
 			}, {
 				"id": 408,
 				"spell": "dongshan",
-				"name": "¶«É½"
+				"name": "ä¸œå±±"
 			}, {
 				"id": 409,
 				"spell": "dongtai",
-				"name": "¶«Ì¨"
+				"name": "ä¸œå°"
 			}, {
 				"id": 410,
 				"spell": "dongtou",
-				"name": "¶´Í·"
+				"name": "æ´å¤´"
 			}, {
 				"id": 411,
 				"spell": "dongxiang",
-				"name": "¶«Ïç"
+				"name": "ä¸œä¹¡"
 			}, {
 				"id": 412,
 				"spell": "dongyang",
-				"name": "¶«Ñô"
+				"name": "ä¸œé˜³"
 			}, {
 				"id": 413,
 				"spell": "dongyuan",
-				"name": "¶«Ô´"
+				"name": "ä¸œæº"
 			}, {
 				"id": 414,
 				"spell": "dongzhi",
-				"name": "¶«ÖÁ"
+				"name": "ä¸œè‡³"
 			}, {
 				"id": 415,
 				"spell": "duchang",
-				"name": "¶¼²ı"
+				"name": "éƒ½æ˜Œ"
 			}, {
 				"id": 416,
 				"spell": "dujiangyan",
-				"name": "¶¼½­Ñß"
+				"name": "éƒ½æ±Ÿå °"
 			}],
 			"E": [{
 				"id": 111,
 				"spell": "eerduosi",
-				"name": "¶õ¶û¶àË¹"
+				"name": "é„‚å°”å¤šæ–¯"
 			}, {
 				"id": 112,
 				"spell": "enshi",
-				"name": "¶÷Ê©"
+				"name": "æ©æ–½"
 			}, {
 				"id": 113,
 				"spell": "ezhou",
-				"name": "¶õÖİ"
+				"name": "é„‚å·"
 			}, {
 				"id": 417,
 				"spell": "enping",
-				"name": "¶÷Æ½"
+				"name": "æ©å¹³"
 			}],
 			"F": [{
 				"id": 11,
 				"spell": "foshan",
-				"name": "·ğÉ½"
+				"name": "ä½›å±±"
 			}, {
 				"id": 12,
 				"spell": "fuzhou",
-				"name": "¸£Öİ"
+				"name": "ç¦å·"
 			}, {
 				"id": 114,
 				"spell": "fangchenggang",
-				"name": "·À³Ç¸Û"
+				"name": "é˜²åŸæ¸¯"
 			}, {
 				"id": 115,
 				"spell": "fushun",
-				"name": "¸§Ë³"
+				"name": "æŠšé¡º"
 			}, {
 				"id": 116,
 				"spell": "fuxin",
-				"name": "¸·ĞÂ"
+				"name": "é˜œæ–°"
 			}, {
 				"id": 117,
 				"spell": "fuyang",
-				"name": "¸·Ñô"
+				"name": "é˜œé˜³"
 			}, {
 				"id": 118,
 				"spell": "fuzhou",
-				"name": "¸§Öİ"
+				"name": "æŠšå·"
 			}, {
 				"id": 418,
 				"spell": "faku",
-				"name": "·¨¿â"
+				"name": "æ³•åº“"
 			}, {
 				"id": 419,
 				"spell": "fanchang",
-				"name": "·±²ı"
+				"name": "ç¹æ˜Œ"
 			}, {
 				"id": 420,
 				"spell": "fangzheng",
-				"name": "·½Õı"
+				"name": "æ–¹æ­£"
 			}, {
 				"id": 421,
 				"spell": "feicheng",
-				"name": "·Ê³Ç"
+				"name": "è‚¥åŸ"
 			}, {
 				"id": 422,
 				"spell": "feidong",
-				"name": "·Ê¶«"
+				"name": "è‚¥ä¸œ"
 			}, {
 				"id": 423,
 				"spell": "feixi",
-				"name": "·ÊÎ÷"
+				"name": "è‚¥è¥¿"
 			}, {
 				"id": 424,
 				"spell": "feixian",
-				"name": "·ÑÏØ"
+				"name": "è´¹å¿"
 			}, {
 				"id": 425,
 				"spell": "fengcheng",
-				"name": "·á³Ç"
+				"name": "ä¸°åŸ"
 			}, {
 				"id": 426,
 				"spell": "fengdu",
-				"name": "·á¶¼"
+				"name": "ä¸°éƒ½"
 			}, {
 				"id": 427,
 				"spell": "fenghua",
-				"name": "·î»¯"
+				"name": "å¥‰åŒ–"
 			}, {
 				"id": 428,
 				"spell": "fengjie",
-				"name": "·î½Ú"
+				"name": "å¥‰èŠ‚"
 			}, {
 				"id": 429,
 				"spell": "fengkai",
-				"name": "·â¿ª"
+				"name": "å°å¼€"
 			}, {
 				"id": 430,
 				"spell": "fengshun",
-				"name": "·áË³"
+				"name": "ä¸°é¡º"
 			}, {
 				"id": 431,
 				"spell": "fengtai",
-				"name": "·ïÌ¨"
+				"name": "å‡¤å°"
 			}, {
 				"id": 432,
 				"spell": "fengxian",
-				"name": "·áÏØ"
+				"name": "ä¸°å¿"
 			}, {
 				"id": 433,
 				"spell": "fengxin",
-				"name": "·îĞÂ"
+				"name": "å¥‰æ–°"
 			}, {
 				"id": 434,
 				"spell": "fengyang",
-				"name": "·ïÑô"
+				"name": "å‡¤é˜³"
 			}, {
 				"id": 435,
 				"spell": "fenyi",
-				"name": "·ÖÒË"
+				"name": "åˆ†å®œ"
 			}, {
 				"id": 436,
 				"spell": "fogang",
-				"name": "·ğ¸Ô"
+				"name": "ä½›å†ˆ"
 			}, {
 				"id": 437,
 				"spell": "fuan",
-				"name": "¸£°²"
+				"name": "ç¦å®‰"
 			}, {
 				"id": 438,
 				"spell": "fuding",
-				"name": "¸£¶¦"
+				"name": "ç¦é¼"
 			}, {
 				"id": 439,
 				"spell": "fuliang",
-				"name": "¸¡Áº"
+				"name": "æµ®æ¢"
 			}, {
 				"id": 440,
 				"spell": "fumin",
-				"name": "¸»Ãñ"
+				"name": "å¯Œæ°‘"
 			}, {
 				"id": 441,
 				"spell": "funan",
-				"name": "¸·ÄÏ"
+				"name": "é˜œå—"
 			}, {
 				"id": 442,
 				"spell": "funing",
-				"name": "¸·Äş"
+				"name": "é˜œå®"
 			}, {
 				"id": 443,
 				"spell": "fuqing",
-				"name": "¸£Çå"
+				"name": "ç¦æ¸…"
 			}, {
 				"id": 444,
 				"spell": "fuyang",
-				"name": "¸»Ñô"
+				"name": "å¯Œé˜³"
 			}],
 			"G": [{
 				"id": 13,
 				"spell": "guangzhou",
-				"name": "¹ãÖİ"
+				"name": "å¹¿å·"
 			}, {
 				"id": 14,
 				"spell": "guiyang",
-				"name": "¹óÑô"
+				"name": "è´µé˜³"
 			}, {
 				"id": 119,
 				"spell": "gannan",
-				"name": "¸ÊÄÏ"
+				"name": "ç”˜å—"
 			}, {
 				"id": 120,
 				"spell": "ganzhou",
-				"name": "¸ÓÖİ"
+				"name": "èµ£å·"
 			}, {
 				"id": 121,
 				"spell": "ganzi",
-				"name": "¸Ê×Î"
+				"name": "ç”˜å­œ"
 			}, {
 				"id": 122,
 				"spell": "guangan",
-				"name": "¹ã°²"
+				"name": "å¹¿å®‰"
 			}, {
 				"id": 123,
 				"spell": "guangyuan",
-				"name": "¹ãÔª"
+				"name": "å¹¿å…ƒ"
 			}, {
 				"id": 124,
 				"spell": "guigang",
-				"name": "¹ó¸Û"
+				"name": "è´µæ¸¯"
 			}, {
 				"id": 125,
 				"spell": "guilin",
-				"name": "¹ğÁÖ"
+				"name": "æ¡‚æ—"
 			}, {
 				"id": 126,
 				"spell": "guoluo",
-				"name": "¹ûÂå"
+				"name": "æœæ´›"
 			}, {
 				"id": 127,
 				"spell": "guyuan",
-				"name": "¹ÌÔ­"
+				"name": "å›ºåŸ"
 			}, {
 				"id": 445,
 				"spell": "ganxian",
-				"name": "¸ÓÏØ"
+				"name": "èµ£å¿"
 			}, {
 				"id": 446,
 				"spell": "ganyu",
-				"name": "¸ÓÓÜ"
+				"name": "èµ£æ¦†"
 			}, {
 				"id": 447,
 				"spell": "gaoan",
-				"name": "¸ß°²"
+				"name": "é«˜å®‰"
 			}, {
 				"id": 448,
 				"spell": "gaocheng",
-				"name": "Ş»³Ç"
+				"name": "è—åŸ"
 			}, {
 				"id": 449,
 				"spell": "gaochun",
-				"name": "¸ß´¾"
+				"name": "é«˜æ·³"
 			}, {
 				"id": 450,
 				"spell": "gaolan",
-				"name": "¸ŞÀ¼"
+				"name": "çš‹å…°"
 			}, {
 				"id": 451,
 				"spell": "gaoling",
-				"name": "¸ßÁê"
+				"name": "é«˜é™µ"
 			}, {
 				"id": 452,
 				"spell": "gaomi",
-				"name": "¸ßÃÜ"
+				"name": "é«˜å¯†"
 			}, {
 				"id": 453,
 				"spell": "gaoqing",
-				"name": "¸ßÇà"
+				"name": "é«˜é’"
 			}, {
 				"id": 454,
 				"spell": "gaotang",
-				"name": "¸ßÌÆ"
+				"name": "é«˜å”"
 			}, {
 				"id": 455,
 				"spell": "gaoyao",
-				"name": "¸ßÒª"
+				"name": "é«˜è¦"
 			}, {
 				"id": 456,
 				"spell": "gaoyi",
-				"name": "¸ßÒØ"
+				"name": "é«˜é‚‘"
 			}, {
 				"id": 457,
 				"spell": "gaoyou",
-				"name": "¸ßÓÊ"
+				"name": "é«˜é‚®"
 			}, {
 				"id": 458,
 				"spell": "gaozhou",
-				"name": "¸ßÖİ"
+				"name": "é«˜å·"
 			}, {
 				"id": 459,
 				"spell": "gongyi",
-				"name": "¹®Òå"
+				"name": "å·©ä¹‰"
 			}, {
 				"id": 460,
 				"spell": "guangchang",
-				"name": "¹ã²ı"
+				"name": "å¹¿æ˜Œ"
 			}, {
 				"id": 461,
 				"spell": "guangde",
-				"name": "¹ãµÂ"
+				"name": "å¹¿å¾·"
 			}, {
 				"id": 462,
 				"spell": "guangfeng",
-				"name": "¹ã·á"
+				"name": "å¹¿ä¸°"
 			}, {
 				"id": 463,
 				"spell": "guangning",
-				"name": "¹ãÄş"
+				"name": "å¹¿å®"
 			}, {
 				"id": 464,
 				"spell": "guangrao",
-				"name": "¹ãÈÄ"
+				"name": "å¹¿é¥¶"
 			}, {
 				"id": 465,
 				"spell": "guangze",
-				"name": "¹âÔó"
+				"name": "å…‰æ³½"
 			}, {
 				"id": 466,
 				"spell": "guannan",
-				"name": "¹àÄÏ"
+				"name": "çŒå—"
 			}, {
 				"id": 467,
 				"spell": "guanxian",
-				"name": "¹ÚÏØ"
+				"name": "å† å¿"
 			}, {
 				"id": 468,
 				"spell": "guanyun",
-				"name": "¹àÔÆ"
+				"name": "çŒäº‘"
 			}, {
 				"id": 469,
 				"spell": "guixi",
-				"name": "¹óÏª"
+				"name": "è´µæºª"
 			}, {
 				"id": 470,
 				"spell": "gutian",
-				"name": "¹ÅÌï"
+				"name": "å¤ç”°"
 			}, {
 				"id": 471,
 				"spell": "guzhen",
-				"name": "¹ÌÕò"
+				"name": "å›ºé•‡"
 			}],
 			"H": [{
 				"id": 15,
 				"spell": "haerbin",
-				"name": "¹ş¶û±õ"
+				"name": "å“ˆå°”æ»¨"
 			}, {
 				"id": 16,
 				"spell": "haikou",
-				"name": "º£¿Ú"
+				"name": "æµ·å£"
 			}, {
 				"id": 17,
 				"spell": "handan",
-				"name": "ºªµ¦"
+				"name": "é‚¯éƒ¸"
 			}, {
 				"id": 18,
 				"spell": "hangzhou",
-				"name": "º¼Öİ"
+				"name": "æ­å·"
 			}, {
 				"id": 19,
 				"spell": "hefei",
-				"name": "ºÏ·Ê"
+				"name": "åˆè‚¥"
 			}, {
 				"id": 20,
 				"spell": "huizhou",
-				"name": "»İÖİ"
+				"name": "æƒ å·"
 			}, {
 				"id": 128,
 				"spell": "haibei",
-				"name": "º£±±"
+				"name": "æµ·åŒ—"
 			}, {
 				"id": 129,
 				"spell": "haidong",
-				"name": "º£¶«"
+				"name": "æµ·ä¸œ"
 			}, {
 				"id": 130,
 				"spell": "hainan",
-				"name": "º£ÄÏ"
+				"name": "æµ·å—"
 			}, {
 				"id": 131,
 				"spell": "haixi",
-				"name": "º£Î÷"
+				"name": "æµ·è¥¿"
 			}, {
 				"id": 132,
 				"spell": "hami",
-				"name": "¹şÃÜ"
+				"name": "å“ˆå¯†"
 			}, {
 				"id": 133,
 				"spell": "hanzhong",
-				"name": "ººÖĞ"
+				"name": "æ±‰ä¸­"
 			}, {
 				"id": 134,
 				"spell": "hebi",
-				"name": "º×±Ú"
+				"name": "é¹¤å£"
 			}, {
 				"id": 135,
 				"spell": "hechi",
-				"name": "ºÓ³Ø"
+				"name": "æ²³æ± "
 			}, {
 				"id": 136,
 				"spell": "hegang",
-				"name": "º×¸Ú"
+				"name": "é¹¤å²—"
 			}, {
 				"id": 137,
 				"spell": "heihe",
-				"name": "ºÚºÓ"
+				"name": "é»‘æ²³"
 			}, {
 				"id": 138,
 				"spell": "hengshui",
-				"name": "ºâË®"
+				"name": "è¡¡æ°´"
 			}, {
 				"id": 139,
 				"spell": "hengyang",
-				"name": "ºâÑô"
+				"name": "è¡¡é˜³"
 			}, {
 				"id": 140,
 				"spell": "hetiandi",
-				"name": "ºÍÌïµØ"
+				"name": "å’Œç”°åœ°"
 			}, {
 				"id": 141,
 				"spell": "heyuan",
-				"name": "ºÓÔ´"
+				"name": "æ²³æº"
 			}, {
 				"id": 142,
 				"spell": "heze",
-				"name": "ºÊÔó"
+				"name": "èæ³½"
 			}, {
 				"id": 143,
 				"spell": "hezhou",
-				"name": "ºØÖİ"
+				"name": "è´ºå·"
 			}, {
 				"id": 144,
 				"spell": "honghe",
-				"name": "ºìºÓ"
+				"name": "çº¢æ²³"
 			}, {
 				"id": 145,
 				"spell": "huaian",
-				"name": "»´°²"
+				"name": "æ·®å®‰"
 			}, {
 				"id": 146,
 				"spell": "huaibei",
-				"name": "»´±±"
+				"name": "æ·®åŒ—"
 			}, {
 				"id": 147,
 				"spell": "huaihua",
-				"name": "»³»¯"
+				"name": "æ€€åŒ–"
 			}, {
 				"id": 148,
 				"spell": "huainan",
-				"name": "»´ÄÏ"
+				"name": "æ·®å—"
 			}, {
 				"id": 149,
 				"spell": "huanggang",
-				"name": "»Æ¸Ô"
+				"name": "é»„å†ˆ"
 			}, {
 				"id": 150,
 				"spell": "huangnan",
-				"name": "»ÆÄÏ"
+				"name": "é»„å—"
 			}, {
 				"id": 151,
 				"spell": "huangshan",
-				"name": "»ÆÉ½"
+				"name": "é»„å±±"
 			}, {
 				"id": 152,
 				"spell": "huangshi",
-				"name": "»ÆÊ¯"
+				"name": "é»„çŸ³"
 			}, {
 				"id": 153,
 				"spell": "huhehaote",
-				"name": "ºôºÍºÆÌØ"
+				"name": "å‘¼å’Œæµ©ç‰¹"
 			}, {
 				"id": 154,
 				"spell": "huludao",
-				"name": "ºùÂ«µº"
+				"name": "è‘«èŠ¦å²›"
 			}, {
 				"id": 155,
 				"spell": "hulunbeier",
-				"name": "ºôÂ×±´¶û"
+				"name": "å‘¼ä¼¦è´å°”"
 			}, {
 				"id": 156,
 				"spell": "huzhou",
-				"name": "ºşÖİ"
+				"name": "æ¹–å·"
 			}, {
 				"id": 472,
 				"spell": "haian",
-				"name": "º£°²"
+				"name": "æµ·å®‰"
 			}, {
 				"id": 473,
 				"spell": "haifeng",
-				"name": "º£·á"
+				"name": "æµ·ä¸°"
 			}, {
 				"id": 474,
 				"spell": "haimen",
-				"name": "º£ÃÅ"
+				"name": "æµ·é—¨"
 			}, {
 				"id": 475,
 				"spell": "haining",
-				"name": "º£Äş"
+				"name": "æµ·å®"
 			}, {
 				"id": 476,
 				"spell": "haiyan",
-				"name": "º£ÑÎ"
+				"name": "æµ·ç›"
 			}, {
 				"id": 477,
 				"spell": "haiyang",
-				"name": "º£Ñô"
+				"name": "æµ·é˜³"
 			}, {
 				"id": 478,
 				"spell": "hanshan",
-				"name": "º¬É½"
+				"name": "å«å±±"
 			}, {
 				"id": 479,
 				"spell": "hechuan",
-				"name": "ºÏ´¨"
+				"name": "åˆå·"
 			}, {
 				"id": 480,
 				"spell": "hengfeng",
-				"name": "ºá·å"
+				"name": "æ¨ªå³°"
 			}, {
 				"id": 481,
 				"spell": "hengxian",
-				"name": "ºáÏØ"
+				"name": "æ¨ªå¿"
 			}, {
 				"id": 482,
 				"spell": "heping",
-				"name": "ºÍÆ½"
+				"name": "å’Œå¹³"
 			}, {
 				"id": 483,
 				"spell": "heshan",
-				"name": "º×É½"
+				"name": "é¹¤å±±"
 			}, {
 				"id": 484,
 				"spell": "hexian",
-				"name": "ºÍÏØ"
+				"name": "å’Œå¿"
 			}, {
 				"id": 485,
 				"spell": "hongze",
-				"name": "ºéÔó"
+				"name": "æ´ªæ³½"
 			}, {
 				"id": 486,
 				"spell": "huaan",
-				"name": "»ª°²"
+				"name": "åå®‰"
 			}, {
 				"id": 487,
 				"spell": "huadian",
-				"name": "èëµé"
+				"name": "æ¡¦ç”¸"
 			}, {
 				"id": 488,
 				"spell": "huaiji",
-				"name": "»³¼¯"
+				"name": "æ€€é›†"
 			}, {
 				"id": 489,
 				"spell": "huaining",
-				"name": "»³Äş"
+				"name": "æ€€å®"
 			}, {
 				"id": 490,
 				"spell": "huaiyuan",
-				"name": "»³Ô¶"
+				"name": "æ€€è¿œ"
 			}, {
 				"id": 491,
 				"spell": "huantai",
-				"name": "»¸Ì¨"
+				"name": "æ¡“å°"
 			}, {
 				"id": 492,
 				"spell": "huazhou",
-				"name": "»¯Öİ"
+				"name": "åŒ–å·"
 			}, {
 				"id": 493,
 				"spell": "huian",
-				"name": "»İ°²"
+				"name": "æƒ å®‰"
 			}, {
 				"id": 494,
 				"spell": "huichang",
-				"name": "»á²ı"
+				"name": "ä¼šæ˜Œ"
 			}, {
 				"id": 495,
 				"spell": "huidong",
-				"name": "»İ¶«"
+				"name": "æƒ ä¸œ"
 			}, {
 				"id": 496,
 				"spell": "huilai",
-				"name": "»İÀ´"
+				"name": "æƒ æ¥"
 			}, {
 				"id": 497,
 				"spell": "huimin",
-				"name": "»İÃñ"
+				"name": "æƒ æ°‘"
 			}, {
 				"id": 498,
 				"spell": "hukou",
-				"name": "ºş¿Ú"
+				"name": "æ¹–å£"
 			}, {
 				"id": 499,
 				"spell": "hulan",
-				"name": "ºôÀ¼"
+				"name": "å‘¼å…°"
 			}, {
 				"id": 500,
 				"spell": "huoqiu",
-				"name": "»ôÇñ"
+				"name": "éœé‚±"
 			}, {
 				"id": 501,
 				"spell": "huoshan",
-				"name": "»ôÉ½"
+				"name": "éœå±±"
 			}, {
 				"id": 502,
 				"spell": "huxian",
-				"name": "»§ÏØ"
+				"name": "æˆ·å¿"
 			}],
 			"J": [{
 				"id": 21,
 				"spell": "jiaozuo",
-				"name": "½¹×÷"
+				"name": "ç„¦ä½œ"
 			}, {
 				"id": 22,
 				"spell": "jiaxing",
-				"name": "¼ÎĞË"
+				"name": "å˜‰å…´"
 			}, {
 				"id": 23,
 				"spell": "jilin",
-				"name": "¼ªÁÖ"
+				"name": "å‰æ—"
 			}, {
 				"id": 24,
 				"spell": "jinan",
-				"name": "¼ÃÄÏ"
+				"name": "æµå—"
 			}, {
 				"id": 157,
 				"spell": "jiamusi",
-				"name": "¼ÑÄ¾Ë¹"
+				"name": "ä½³æœ¨æ–¯"
 			}, {
 				"id": 158,
 				"spell": "jiangmen",
-				"name": "½­ÃÅ"
+				"name": "æ±Ÿé—¨"
 			}, {
 				"id": 159,
 				"spell": "jian",
-				"name": "¼ª°²"
+				"name": "å‰å®‰"
 			}, {
 				"id": 160,
 				"spell": "jiayuguan",
-				"name": "¼ÎÓø¹Ø"
+				"name": "å˜‰å³ªå…³"
 			}, {
 				"id": 161,
 				"spell": "jieyang",
-				"name": "½ÒÑô"
+				"name": "æ­é˜³"
 			}, {
 				"id": 162,
 				"spell": "jinchang",
-				"name": "½ğ²ı"
+				"name": "é‡‘æ˜Œ"
 			}, {
 				"id": 163,
 				"spell": "jincheng",
-				"name": "½ú³Ç"
+				"name": "æ™‹åŸ"
 			}, {
 				"id": 164,
 				"spell": "jingdezhen",
-				"name": "¾°µÂÕò"
+				"name": "æ™¯å¾·é•‡"
 			}, {
 				"id": 165,
 				"spell": "jingmen",
-				"name": "¾£ÃÅ"
+				"name": "è†é—¨"
 			}, {
 				"id": 166,
 				"spell": "jingzhou",
-				"name": "¾£Öİ"
+				"name": "è†å·"
 			}, {
 				"id": 167,
 				"spell": "jinhua",
-				"name": "½ğ»ª"
+				"name": "é‡‘å"
 			}, {
 				"id": 168,
 				"spell": "jining",
-				"name": "¼ÃÄş"
+				"name": "æµå®"
 			}, {
 				"id": 169,
 				"spell": "jinzhong",
-				"name": "½úÖĞ"
+				"name": "æ™‹ä¸­"
 			}, {
 				"id": 170,
 				"spell": "jinzhou",
-				"name": "½õÖİ"
+				"name": "é”¦å·"
 			}, {
 				"id": 171,
 				"spell": "jiujiang",
-				"name": "¾Å½­"
+				"name": "ä¹æ±Ÿ"
 			}, {
 				"id": 172,
 				"spell": "jiuquan",
-				"name": "¾ÆÈª"
+				"name": "é…’æ³‰"
 			}, {
 				"id": 173,
 				"spell": "jixi",
-				"name": "¼¦Î÷"
+				"name": "é¸¡è¥¿"
 			}, {
 				"id": 503,
 				"spell": "jiande",
-				"name": "½¨µÂ"
+				"name": "å»ºå¾·"
 			}, {
 				"id": 504,
 				"spell": "jiangdu",
-				"name": "½­¶¼"
+				"name": "æ±Ÿéƒ½"
 			}, {
 				"id": 505,
 				"spell": "jiangjin",
-				"name": "½­½ò"
+				"name": "æ±Ÿæ´¥"
 			}, {
 				"id": 506,
 				"spell": "jiangle",
-				"name": "½«ÀÖ"
+				"name": "å°†ä¹"
 			}, {
 				"id": 507,
 				"spell": "jiangshan",
-				"name": "½­É½"
+				"name": "æ±Ÿå±±"
 			}, {
 				"id": 508,
 				"spell": "jiangyan",
-				"name": "½ªÑß"
+				"name": "å§œå °"
 			}, {
 				"id": 509,
 				"spell": "jiangyin",
-				"name": "½­Òõ"
+				"name": "æ±Ÿé˜´"
 			}, {
 				"id": 510,
 				"spell": "jianhu",
-				"name": "½¨ºş"
+				"name": "å»ºæ¹–"
 			}, {
 				"id": 511,
 				"spell": "jianning",
-				"name": "½¨Äş"
+				"name": "å»ºå®"
 			}, {
 				"id": 512,
 				"spell": "jianou",
-				"name": "½¨ê±"
+				"name": "å»ºç“¯"
 			}, {
 				"id": 513,
 				"spell": "jianyang",
-				"name": "½¨Ñô"
+				"name": "å»ºé˜³"
 			}, {
 				"id": 514,
 				"spell": "jian",
-				"name": "¼ª°²"
+				"name": "å‰å®‰"
 			}, {
 				"id": 515,
 				"spell": "jiaohe",
-				"name": "òÔºÓ"
+				"name": "è›Ÿæ²³"
 			}, {
 				"id": 516,
 				"spell": "jiaoling",
-				"name": "½¶Áë"
+				"name": "è•‰å²­"
 			}, {
 				"id": 517,
 				"spell": "jiaonan",
-				"name": "½ºÄÏ"
+				"name": "èƒ¶å—"
 			}, {
 				"id": 518,
 				"spell": "jiaozhou",
-				"name": "½ºÖİ"
+				"name": "èƒ¶å·"
 			}, {
 				"id": 519,
 				"spell": "jiashan",
-				"name": "¼ÎÉÆ"
+				"name": "å˜‰å–„"
 			}, {
 				"id": 520,
 				"spell": "jiaxiang",
-				"name": "¼ÎÏé"
+				"name": "å˜‰ç¥¥"
 			}, {
 				"id": 521,
 				"spell": "jiedong",
-				"name": "½Ò¶«"
+				"name": "æ­ä¸œ"
 			}, {
 				"id": 522,
 				"spell": "jieshou",
-				"name": "½çÊ×"
+				"name": "ç•Œé¦–"
 			}, {
 				"id": 523,
 				"spell": "jiexi",
-				"name": "½ÒÎ÷"
+				"name": "æ­è¥¿"
 			}, {
 				"id": 524,
 				"spell": "jimo",
-				"name": "¼´Ä«"
+				"name": "å³å¢¨"
 			}, {
 				"id": 525,
 				"spell": "jingan",
-				"name": "¾¸°²"
+				"name": "é–å®‰"
 			}, {
 				"id": 526,
 				"spell": "jingde",
-				"name": "ìºµÂ"
+				"name": "æ—Œå¾·"
 			}, {
 				"id": 527,
 				"spell": "jinggangshan",
-				"name": "¾®¸ÔÉ½"
+				"name": "äº•å†ˆå±±"
 			}, {
 				"id": 528,
 				"spell": "jingjiang",
-				"name": "¾¸½­"
+				"name": "é–æ±Ÿ"
 			}, {
 				"id": 529,
 				"spell": "jingning",
-				"name": "¾°Äş"
+				"name": "æ™¯å®"
 			}, {
 				"id": 530,
 				"spell": "jingxian",
-				"name": "ãşÏØ"
+				"name": "æ³¾å¿"
 			}, {
 				"id": 531,
 				"spell": "jingxing",
-				"name": "¾®Úê"
+				"name": "äº•é™‰"
 			}, {
 				"id": 532,
 				"spell": "jinhu",
-				"name": "½ğºş"
+				"name": "é‡‘æ¹–"
 			}, {
 				"id": 533,
 				"spell": "jinjiang",
-				"name": "½ú½­"
+				"name": "æ™‹æ±Ÿ"
 			}, {
 				"id": 534,
 				"spell": "jinmen",
-				"name": "½ğÃÅ"
+				"name": "é‡‘é—¨"
 			}, {
 				"id": 535,
 				"spell": "jinning",
-				"name": "½úÄş"
+				"name": "æ™‹å®"
 			}, {
 				"id": 536,
 				"spell": "jintan",
-				"name": "½ğÌ³"
+				"name": "é‡‘å›"
 			}, {
 				"id": 537,
 				"spell": "jintang",
-				"name": "½ğÌÃ"
+				"name": "é‡‘å ‚"
 			}, {
 				"id": 538,
 				"spell": "jinxian",
-				"name": "½øÏÍ"
+				"name": "è¿›è´¤"
 			}, {
 				"id": 539,
 				"spell": "jinxi",
-				"name": "½ğÏª"
+				"name": "é‡‘æºª"
 			}, {
 				"id": 540,
 				"spell": "jinxiang",
-				"name": "½ğÏç"
+				"name": "é‡‘ä¹¡"
 			}, {
 				"id": 541,
 				"spell": "jinyun",
-				"name": "çÆÔÆ"
+				"name": "ç¼™äº‘"
 			}, {
 				"id": 542,
 				"spell": "jinzhai",
-				"name": "½ğÕ¯"
+				"name": "é‡‘å¯¨"
 			}, {
 				"id": 543,
 				"spell": "jinzhou",
-				"name": "½úÖİ"
+				"name": "æ™‹å·"
 			}, {
 				"id": 544,
 				"spell": "jishui",
-				"name": "¼ªË®"
+				"name": "å‰æ°´"
 			}, {
 				"id": 545,
 				"spell": "jiujiang",
-				"name": "¾Å½­"
+				"name": "ä¹æ±Ÿ"
 			}, {
 				"id": 546,
 				"spell": "jiutai",
-				"name": "¾ÅÌ¨"
+				"name": "ä¹å°"
 			}, {
 				"id": 547,
 				"spell": "jixi",
-				"name": "¼¨Ïª"
+				"name": "ç»©æºª"
 			}, {
 				"id": 548,
 				"spell": "jiyang",
-				"name": "¼ÃÑô"
+				"name": "æµé˜³"
 			}, {
 				"id": 549,
 				"spell": "jiyuan",
-				"name": "¼ÃÔ´"
+				"name": "æµæº"
 			}, {
 				"id": 550,
 				"spell": "juancheng",
-				"name": "Û²³Ç"
+				"name": "é„„åŸ"
 			}, {
 				"id": 551,
 				"spell": "junan",
-				"name": "ÜìÄÏ"
+				"name": "è’å—"
 			}, {
 				"id": 552,
 				"spell": "jurong",
-				"name": "¾äÈİ"
+				"name": "å¥å®¹"
 			}, {
 				"id": 553,
 				"spell": "juxian",
-				"name": "ÜìÏØ"
+				"name": "è’å¿"
 			}, {
 				"id": 554,
 				"spell": "juye",
-				"name": "¾ŞÒ°"
+				"name": "å·¨é‡"
 			}],
 			"K": [{
 				"id": 25,
 				"spell": "kunming",
-				"name": "À¥Ã÷"
+				"name": "æ˜†æ˜"
 			}, {
 				"id": 174,
 				"spell": "kaifeng",
-				"name": "¿ª·â"
+				"name": "å¼€å°"
 			}, {
 				"id": 175,
 				"spell": "kashidi",
-				"name": "¿¦Ê²µØ"
+				"name": "å–€ä»€åœ°"
 			}, {
 				"id": 176,
 				"spell": "kelamayi",
-				"name": "¿ËÀ­ÂêÒÀ"
+				"name": "å…‹æ‹‰ç›ä¾"
 			}, {
 				"id": 177,
 				"spell": "kezile",
-				"name": "¿Ë×ÎÀÕ"
+				"name": "å…‹å­œå‹’"
 			}, {
 				"id": 555,
 				"spell": "kaihua",
-				"name": "¿ª»¯"
+				"name": "å¼€åŒ–"
 			}, {
 				"id": 556,
 				"spell": "kaiping",
-				"name": "¿ªÆ½"
+				"name": "å¼€å¹³"
 			}, {
 				"id": 557,
 				"spell": "kaixian",
-				"name": "¿ªÏØ"
+				"name": "å¼€å¿"
 			}, {
 				"id": 558,
 				"spell": "kaiyang",
-				"name": "¿ªÑô"
+				"name": "å¼€é˜³"
 			}, {
 				"id": 559,
 				"spell": "kangping",
-				"name": "¿µÆ½"
+				"name": "åº·å¹³"
 			}, {
 				"id": 560,
 				"spell": "kenli",
-				"name": "¿ÑÀû"
+				"name": "å¦åˆ©"
 			}, {
 				"id": 561,
 				"spell": "kunshan",
-				"name": "À¥É½"
+				"name": "æ˜†å±±"
 			}],
 			"L": [{
 				"id": 26,
 				"spell": "lanzhou",
-				"name": "À¼Öİ"
+				"name": "å…°å·"
 			}, {
 				"id": 27,
 				"spell": "liuzhou",
-				"name": "ÁøÖİ"
+				"name": "æŸ³å·"
 			}, {
 				"id": 28,
 				"spell": "luoyang",
-				"name": "ÂåÑô"
+				"name": "æ´›é˜³"
 			}, {
 				"id": 178,
 				"spell": "laibin",
-				"name": "À´±ö"
+				"name": "æ¥å®¾"
 			}, {
 				"id": 179,
 				"spell": "laiwu",
-				"name": "À³Îß"
+				"name": "è±èŠœ"
 			}, {
 				"id": 180,
 				"spell": "langfang",
-				"name": "ÀÈ·»"
+				"name": "å»ŠåŠ"
 			}, {
 				"id": 181,
 				"spell": "lasa",
-				"name": "À­Èø"
+				"name": "æ‹‰è¨"
 			}, {
 				"id": 182,
 				"spell": "leshan",
-				"name": "ÀÖÉ½"
+				"name": "ä¹å±±"
 			}, {
 				"id": 183,
 				"spell": "liangshan",
-				"name": "Á¹É½"
+				"name": "å‡‰å±±"
 			}, {
 				"id": 184,
 				"spell": "lianyungang",
-				"name": "Á¬ÔÆ¸Û"
+				"name": "è¿äº‘æ¸¯"
 			}, {
 				"id": 185,
 				"spell": "liaocheng",
-				"name": "ÁÄ³Ç"
+				"name": "èŠåŸ"
 			}, {
 				"id": 186,
 				"spell": "liaoyang",
-				"name": "ÁÉÑô"
+				"name": "è¾½é˜³"
 			}, {
 				"id": 187,
 				"spell": "liaoyuan",
-				"name": "ÁÉÔ´"
+				"name": "è¾½æº"
 			}, {
 				"id": 188,
 				"spell": "lijiang",
-				"name": "Àö½­"
+				"name": "ä¸½æ±Ÿ"
 			}, {
 				"id": 189,
 				"spell": "lincang",
-				"name": "ÁÙ²×"
+				"name": "ä¸´æ²§"
 			}, {
 				"id": 190,
 				"spell": "linfen",
-				"name": "ÁÙ·Ú"
+				"name": "ä¸´æ±¾"
 			}, {
 				"id": 191,
 				"spell": "linxia",
-				"name": "ÁÙÏÄ"
+				"name": "ä¸´å¤"
 			}, {
 				"id": 192,
 				"spell": "linyi",
-				"name": "ÁÙÒÊ"
+				"name": "ä¸´æ²‚"
 			}, {
 				"id": 193,
 				"spell": "linzhi",
-				"name": "ÁÖÖ¥"
+				"name": "æ—èŠ"
 			}, {
 				"id": 194,
 				"spell": "lishui",
-				"name": "ÀöË®"
+				"name": "ä¸½æ°´"
 			}, {
 				"id": 195,
 				"spell": "liuan",
-				"name": "Áù°²"
+				"name": "å…­å®‰"
 			}, {
 				"id": 196,
 				"spell": "liupanshui",
-				"name": "ÁùÅÌË®"
+				"name": "å…­ç›˜æ°´"
 			}, {
 				"id": 197,
 				"spell": "longnan",
-				"name": "Â¤ÄÏ"
+				"name": "é™‡å—"
 			}, {
 				"id": 198,
 				"spell": "longyan",
-				"name": "ÁúÑÒ"
+				"name": "é¾™å²©"
 			}, {
 				"id": 199,
 				"spell": "loudi",
-				"name": "Â¦µ×"
+				"name": "å¨„åº•"
 			}, {
 				"id": 200,
 				"spell": "luohe",
-				"name": "äğºÓ"
+				"name": "æ¼¯æ²³"
 			}, {
 				"id": 201,
 				"spell": "luzhou",
-				"name": "ãòÖİ"
+				"name": "æ³¸å·"
 			}, {
 				"id": 202,
 				"spell": "lvliang",
-				"name": "ÂÀÁº"
+				"name": "å•æ¢"
 			}, {
 				"id": 562,
 				"spell": "laian",
-				"name": "À´°²"
+				"name": "æ¥å®‰"
 			}, {
 				"id": 563,
 				"spell": "laixi",
-				"name": "À³Î÷"
+				"name": "è±è¥¿"
 			}, {
 				"id": 564,
 				"spell": "laiyang",
-				"name": "À³Ñô"
+				"name": "è±é˜³"
 			}, {
 				"id": 565,
 				"spell": "laizhou",
-				"name": "À³Öİ"
+				"name": "è±å·"
 			}, {
 				"id": 566,
 				"spell": "langxi",
-				"name": "ÀÉÏª"
+				"name": "éƒæºª"
 			}, {
 				"id": 567,
 				"spell": "lantian",
-				"name": "À¶Ìï"
+				"name": "è“ç”°"
 			}, {
 				"id": 568,
 				"spell": "lanxi",
-				"name": "À¼Ïª"
+				"name": "å…°æºª"
 			}, {
 				"id": 569,
 				"spell": "lean",
-				"name": "ÀÖ°²"
+				"name": "ä¹å®‰"
 			}, {
 				"id": 570,
 				"spell": "lechang",
-				"name": "ÀÖ²ı"
+				"name": "ä¹æ˜Œ"
 			}, {
 				"id": 571,
 				"spell": "leizhou",
-				"name": "À×Öİ"
+				"name": "é›·å·"
 			}, {
 				"id": 572,
 				"spell": "leling",
-				"name": "ÀÖÁê"
+				"name": "ä¹é™µ"
 			}, {
 				"id": 573,
 				"spell": "leping",
-				"name": "ÀÖÆ½"
+				"name": "ä¹å¹³"
 			}, {
 				"id": 574,
 				"spell": "leqing",
-				"name": "ÀÖÇå"
+				"name": "ä¹æ¸…"
 			}, {
 				"id": 575,
 				"spell": "leting",
-				"name": "ÀÖÍ¤"
+				"name": "ä¹äº­"
 			}, {
 				"id": 576,
 				"spell": "liancheng",
-				"name": "Á¬³Ç"
+				"name": "è¿åŸ"
 			}, {
 				"id": 577,
 				"spell": "liangping",
-				"name": "ÁºÆ½"
+				"name": "æ¢å¹³"
 			}, {
 				"id": 578,
 				"spell": "liangshan",
-				"name": "ÁºÉ½"
+				"name": "æ¢å±±"
 			}, {
 				"id": 579,
 				"spell": "lianhua",
-				"name": "Á«»¨"
+				"name": "è²èŠ±"
 			}, {
 				"id": 580,
 				"spell": "lianjiang",
-				"name": "Á¬½­"
+				"name": "è¿æ±Ÿ"
 			}, {
 				"id": 581,
 				"spell": "lianjiang",
-				"name": "Á®½­"
+				"name": "å»‰æ±Ÿ"
 			}, {
 				"id": 582,
 				"spell": "liannan",
-				"name": "Á¬ÄÏ"
+				"name": "è¿å—"
 			}, {
 				"id": 583,
 				"spell": "lianping",
-				"name": "Á¬Æ½"
+				"name": "è¿å¹³"
 			}, {
 				"id": 584,
 				"spell": "lianshan",
-				"name": "Á¬É½"
+				"name": "è¿å±±"
 			}, {
 				"id": 585,
 				"spell": "lianshui",
-				"name": "Á°Ë®"
+				"name": "æ¶Ÿæ°´"
 			}, {
 				"id": 586,
 				"spell": "lianzhou",
-				"name": "Á¬Öİ"
+				"name": "è¿å·"
 			}, {
 				"id": 587,
 				"spell": "liaozhong",
-				"name": "ÁÉÖĞ"
+				"name": "è¾½ä¸­"
 			}, {
 				"id": 588,
 				"spell": "lichuan",
-				"name": "Àè´¨"
+				"name": "é»å·"
 			}, {
 				"id": 589,
 				"spell": "lijin",
-				"name": "Àû½ò"
+				"name": "åˆ©æ´¥"
 			}, {
 				"id": 590,
 				"spell": "linan",
-				"name": "ÁÙ°²"
+				"name": "ä¸´å®‰"
 			}, {
 				"id": 591,
 				"spell": "lingbi",
-				"name": "Áéèµ"
+				"name": "çµç’§"
 			}, {
 				"id": 592,
 				"spell": "lingshou",
-				"name": "ÁéÊÙ"
+				"name": "çµå¯¿"
 			}, {
 				"id": 593,
 				"spell": "lingxian",
-				"name": "ÁêÏØ"
+				"name": "é™µå¿"
 			}, {
 				"id": 594,
 				"spell": "linhai",
-				"name": "ÁÙº£"
+				"name": "ä¸´æµ·"
 			}, {
 				"id": 595,
 				"spell": "linqing",
-				"name": "ÁÙÇå"
+				"name": "ä¸´æ¸…"
 			}, {
 				"id": 596,
 				"spell": "linquan",
-				"name": "ÁÙÈª"
+				"name": "ä¸´æ³‰"
 			}, {
 				"id": 597,
 				"spell": "linqu",
-				"name": "ÁÙëÔ"
+				"name": "ä¸´æœ"
 			}, {
 				"id": 598,
 				"spell": "linshu",
-				"name": "ÁÙãğ"
+				"name": "ä¸´æ²­"
 			}, {
 				"id": 599,
 				"spell": "linyi",
-				"name": "ÁÙÒØ"
+				"name": "ä¸´é‚‘"
 			}, {
 				"id": 600,
 				"spell": "lishui",
-				"name": "äàË®"
+				"name": "æº§æ°´"
 			}, {
 				"id": 601,
 				"spell": "liucheng",
-				"name": "Áø³Ç"
+				"name": "æŸ³åŸ"
 			}, {
 				"id": 602,
 				"spell": "liujiang",
-				"name": "Áø½­"
+				"name": "æŸ³æ±Ÿ"
 			}, {
 				"id": 603,
 				"spell": "liuyang",
-				"name": "ä¯Ñô"
+				"name": "æµé˜³"
 			}, {
 				"id": 604,
 				"spell": "lixin",
-				"name": "ÀûĞÁ"
+				"name": "åˆ©è¾›"
 			}, {
 				"id": 605,
 				"spell": "liyang",
-				"name": "äàÑô"
+				"name": "æº§é˜³"
 			}, {
 				"id": 606,
 				"spell": "longan",
-				"name": "Â¡°²"
+				"name": "éš†å®‰"
 			}, {
 				"id": 607,
 				"spell": "longchuan",
-				"name": "Áú´¨"
+				"name": "é¾™å·"
 			}, {
 				"id": 608,
 				"spell": "longhai",
-				"name": "Áúº£"
+				"name": "é¾™æµ·"
 			}, {
 				"id": 609,
 				"spell": "longkou",
-				"name": "Áú¿Ú"
+				"name": "é¾™å£"
 			}, {
 				"id": 610,
 				"spell": "longmen",
-				"name": "ÁúÃÅ"
+				"name": "é¾™é—¨"
 			}, {
 				"id": 611,
 				"spell": "longnan",
-				"name": "ÁúÄÏ"
+				"name": "é¾™å—"
 			}, {
 				"id": 612,
 				"spell": "longquan",
-				"name": "ÁúÈª"
+				"name": "é¾™æ³‰"
 			}, {
 				"id": 613,
 				"spell": "longyou",
-				"name": "ÁúÓÎ"
+				"name": "é¾™æ¸¸"
 			}, {
 				"id": 614,
 				"spell": "luancheng",
-				"name": "èï³Ç"
+				"name": "æ ¾åŸ"
 			}, {
 				"id": 615,
 				"spell": "luanchuan",
-				"name": "èï´¨"
+				"name": "æ ¾å·"
 			}, {
 				"id": 616,
 				"spell": "luannan",
-				"name": "ÂĞÄÏ"
+				"name": "æ»¦å—"
 			}, {
 				"id": 617,
 				"spell": "luanxian",
-				"name": "ÂĞÏØ"
+				"name": "æ»¦å¿"
 			}, {
 				"id": 618,
 				"spell": "lufeng",
-				"name": "Â½·á"
+				"name": "é™†ä¸°"
 			}, {
 				"id": 619,
 				"spell": "luhe",
-				"name": "Â½ºÓ"
+				"name": "é™†æ²³"
 			}, {
 				"id": 620,
 				"spell": "lujiang",
-				"name": "Â®½­"
+				"name": "åºæ±Ÿ"
 			}, {
 				"id": 621,
 				"spell": "luoding",
-				"name": "ÂŞ¶¨"
+				"name": "ç½—å®š"
 			}, {
 				"id": 622,
 				"spell": "luoning",
-				"name": "ÂåÄş"
+				"name": "æ´›å®"
 			}, {
 				"id": 623,
 				"spell": "luoyuan",
-				"name": "ÂŞÔ´"
+				"name": "ç½—æº"
 			}, {
 				"id": 624,
 				"spell": "luquan",
-				"name": "Â¹Èª"
+				"name": "é¹¿æ³‰"
 			}, {
 				"id": 625,
 				"spell": "luquan",
-				"name": "Â»È°"
+				"name": "ç¦„åŠ"
 			}, {
 				"id": 626,
 				"spell": "luxi",
-				"name": "Â«Ïª"
+				"name": "èŠ¦æºª"
 			}, {
 				"id": 627,
 				"spell": "luzhai",
-				"name": "Â¹Õ¯"
+				"name": "é¹¿å¯¨"
 			}],
 			"M": [{
 				"id": 203,
 				"spell": "maanshan",
-				"name": "Âí°°É½"
+				"name": "é©¬éå±±"
 			}, {
 				"id": 204,
 				"spell": "maoming",
-				"name": "Ã¯Ãû"
+				"name": "èŒ‚å"
 			}, {
 				"id": 205,
 				"spell": "meishan",
-				"name": "Ã¼É½"
+				"name": "çœ‰å±±"
 			}, {
 				"id": 206,
 				"spell": "meizhou",
-				"name": "Ã·Öİ"
+				"name": "æ¢…å·"
 			}, {
 				"id": 207,
 				"spell": "mianyang",
-				"name": "ÃàÑô"
+				"name": "ç»µé˜³"
 			}, {
 				"id": 208,
 				"spell": "mudanjiang",
-				"name": "Äµµ¤½­"
+				"name": "ç‰¡ä¸¹æ±Ÿ"
 			}, {
 				"id": 628,
 				"spell": "mashan",
-				"name": "ÂíÉ½"
+				"name": "é©¬å±±"
 			}, {
 				"id": 629,
 				"spell": "meixian",
-				"name": "Ã·ÏØ"
+				"name": "æ¢…å¿"
 			}, {
 				"id": 630,
 				"spell": "mengcheng",
-				"name": "ÃÉ³Ç"
+				"name": "è’™åŸ"
 			}, {
 				"id": 631,
 				"spell": "mengjin",
-				"name": "ÃÏ½ò"
+				"name": "å­Ÿæ´¥"
 			}, {
 				"id": 632,
 				"spell": "mengyin",
-				"name": "ÃÉÒõ"
+				"name": "è’™é˜´"
 			}, {
 				"id": 633,
 				"spell": "mengzhou",
-				"name": "ÃÏÖİ"
+				"name": "å­Ÿå·"
 			}, {
 				"id": 634,
 				"spell": "mingguang",
-				"name": "Ã÷¹â"
+				"name": "æ˜å…‰"
 			}, {
 				"id": 635,
 				"spell": "mingxi",
-				"name": "Ã÷Ïª"
+				"name": "æ˜æºª"
 			}, {
 				"id": 636,
 				"spell": "minhou",
-				"name": "Ãöºî"
+				"name": "é—½ä¾¯"
 			}, {
 				"id": 637,
 				"spell": "minqing",
-				"name": "ÃöÇå"
+				"name": "é—½æ¸…"
 			}, {
 				"id": 638,
 				"spell": "mulan",
-				"name": "Ä¾À¼"
+				"name": "æœ¨å…°"
 			}],
 			"N": [{
 				"id": 29,
 				"spell": "nanchang",
-				"name": "ÄÏ²ı"
+				"name": "å—æ˜Œ"
 			}, {
 				"id": 30,
 				"spell": "nanjing",
-				"name": "ÄÏ¾©"
+				"name": "å—äº¬"
 			}, {
 				"id": 31,
 				"spell": "nanning",
-				"name": "ÄÏÄş"
+				"name": "å—å®"
 			}, {
 				"id": 32,
 				"spell": "nantong",
-				"name": "ÄÏÍ¨"
+				"name": "å—é€š"
 			}, {
 				"id": 33,
 				"spell": "ningbo",
-				"name": "Äş²¨"
+				"name": "å®æ³¢"
 			}, {
 				"id": 209,
 				"spell": "nanchong",
-				"name": "ÄÏ³ä"
+				"name": "å—å……"
 			}, {
 				"id": 210,
 				"spell": "nanping",
-				"name": "ÄÏÆ½"
+				"name": "å—å¹³"
 			}, {
 				"id": 211,
 				"spell": "nanyang",
-				"name": "ÄÏÑô"
+				"name": "å—é˜³"
 			}, {
 				"id": 212,
 				"spell": "naqu",
-				"name": "ÄÇÇú"
+				"name": "é‚£æ›²"
 			}, {
 				"id": 213,
 				"spell": "neijiang",
-				"name": "ÄÚ½­"
+				"name": "å†…æ±Ÿ"
 			}, {
 				"id": 214,
 				"spell": "ningde",
-				"name": "ÄşµÂ"
+				"name": "å®å¾·"
 			}, {
 				"id": 215,
 				"spell": "nujiang",
-				"name": "Å­½­"
+				"name": "æ€’æ±Ÿ"
 			}, {
 				"id": 639,
 				"spell": "nanan",
-				"name": "ÄÏ°²"
+				"name": "å—å®‰"
 			}, {
 				"id": 640,
 				"spell": "nanao",
-				"name": "ÄÏ°Ä"
+				"name": "å—æ¾³"
 			}, {
 				"id": 641,
 				"spell": "nancheng",
-				"name": "ÄÏ³Ç"
+				"name": "å—åŸ"
 			}, {
 				"id": 642,
 				"spell": "nanchuan",
-				"name": "ÄÏ´¨"
+				"name": "å—å·"
 			}, {
 				"id": 643,
 				"spell": "nanfeng",
-				"name": "ÄÏ·á"
+				"name": "å—ä¸°"
 			}, {
 				"id": 644,
 				"spell": "nanjing",
-				"name": "ÄÏ¾¸"
+				"name": "å—é–"
 			}, {
 				"id": 645,
 				"spell": "nankang",
-				"name": "ÄÏ¿µ"
+				"name": "å—åº·"
 			}, {
 				"id": 646,
 				"spell": "nanling",
-				"name": "ÄÏÁê"
+				"name": "å—é™µ"
 			}, {
 				"id": 647,
 				"spell": "nanxiong",
-				"name": "ÄÏĞÛ"
+				"name": "å—é›„"
 			}, {
 				"id": 648,
 				"spell": "ningdu",
-				"name": "Äş¶¼"
+				"name": "å®éƒ½"
 			}, {
 				"id": 649,
 				"spell": "ningguo",
-				"name": "Äş¹ú"
+				"name": "å®å›½"
 			}, {
 				"id": 650,
 				"spell": "ninghai",
-				"name": "Äşº£"
+				"name": "å®æµ·"
 			}, {
 				"id": 651,
 				"spell": "ninghua",
-				"name": "Äş»¯"
+				"name": "å®åŒ–"
 			}, {
 				"id": 652,
 				"spell": "ningjin",
-				"name": "Äş½ò"
+				"name": "å®æ´¥"
 			}, {
 				"id": 653,
 				"spell": "ningxiang",
-				"name": "ÄşÏç"
+				"name": "å®ä¹¡"
 			}, {
 				"id": 654,
 				"spell": "ningyang",
-				"name": "ÄşÑô"
+				"name": "å®é˜³"
 			}, {
 				"id": 655,
 				"spell": "nongan",
-				"name": "Å©°²"
+				"name": "å†œå®‰"
 			}],
 			"P": [{
 				"id": 216,
 				"spell": "panjin",
-				"name": "ÅÌ½õ"
+				"name": "ç›˜é”¦"
 			}, {
 				"id": 217,
 				"spell": "panzhihua",
-				"name": "ÅÊÖ¦»¨"
+				"name": "æ”€æèŠ±"
 			}, {
 				"id": 218,
 				"spell": "pingdingshan",
-				"name": "Æ½¶¥É½"
+				"name": "å¹³é¡¶å±±"
 			}, {
 				"id": 219,
 				"spell": "pingliang",
-				"name": "Æ½Á¹"
+				"name": "å¹³å‡‰"
 			}, {
 				"id": 220,
 				"spell": "pingxiang",
-				"name": "Æ¼Ïç"
+				"name": "èä¹¡"
 			}, {
 				"id": 221,
 				"spell": "puer",
-				"name": "ÆÕ¶ı"
+				"name": "æ™®æ´±"
 			}, {
 				"id": 222,
 				"spell": "putian",
-				"name": "ÆÎÌï"
+				"name": "è†ç”°"
 			}, {
 				"id": 223,
 				"spell": "puyang",
-				"name": "å§Ñô"
+				"name": "æ¿®é˜³"
 			}, {
 				"id": 656,
 				"spell": "panan",
-				"name": "ÅÍ°²"
+				"name": "ç£å®‰"
 			}, {
 				"id": 657,
 				"spell": "panshi",
-				"name": "ÅÍÊ¯"
+				"name": "ç£çŸ³"
 			}, {
 				"id": 658,
 				"spell": "peixian",
-				"name": "ÅæÏØ"
+				"name": "æ²›å¿"
 			}, {
 				"id": 659,
 				"spell": "penglai",
-				"name": "ÅîÀ³"
+				"name": "è“¬è±"
 			}, {
 				"id": 660,
 				"spell": "pengshui",
-				"name": "ÅíË®"
+				"name": "å½­æ°´"
 			}, {
 				"id": 661,
 				"spell": "pengze",
-				"name": "ÅíÔó"
+				"name": "å½­æ³½"
 			}, {
 				"id": 662,
 				"spell": "pengzhou",
-				"name": "ÅíÖİ"
+				"name": "å½­å·"
 			}, {
 				"id": 663,
 				"spell": "pingdu",
-				"name": "Æ½¶È"
+				"name": "å¹³åº¦"
 			}, {
 				"id": 664,
 				"spell": "pinghe",
-				"name": "Æ½ºÍ"
+				"name": "å¹³å’Œ"
 			}, {
 				"id": 665,
 				"spell": "pinghu",
-				"name": "Æ½ºş"
+				"name": "å¹³æ¹–"
 			}, {
 				"id": 666,
 				"spell": "pingnan",
-				"name": "ÆÁÄÏ"
+				"name": "å±å—"
 			}, {
 				"id": 667,
 				"spell": "pingshan",
-				"name": "Æ½É½"
+				"name": "å¹³å±±"
 			}, {
 				"id": 668,
 				"spell": "pingtan",
-				"name": "Æ½Ì¶"
+				"name": "å¹³æ½­"
 			}, {
 				"id": 669,
 				"spell": "pingyang",
-				"name": "Æ½Ñô"
+				"name": "å¹³é˜³"
 			}, {
 				"id": 670,
 				"spell": "pingyin",
-				"name": "Æ½Òõ"
+				"name": "å¹³é˜´"
 			}, {
 				"id": 671,
 				"spell": "pingyi",
-				"name": "Æ½ÒØ"
+				"name": "å¹³é‚‘"
 			}, {
 				"id": 672,
 				"spell": "pingyuan",
-				"name": "Æ½Ô­"
+				"name": "å¹³åŸ"
 			}, {
 				"id": 673,
 				"spell": "pingyuan",
-				"name": "Æ½Ô¶"
+				"name": "å¹³è¿œ"
 			}, {
 				"id": 674,
 				"spell": "pixian",
-				"name": "Û¯ÏØ"
+				"name": "éƒ«å¿"
 			}, {
 				"id": 675,
 				"spell": "pizhou",
-				"name": "ÚüÖİ"
+				"name": "é‚³å·"
 			}, {
 				"id": 676,
 				"spell": "poyang",
-				"name": "Û¶Ñô"
+				"name": "é„±é˜³"
 			}, {
 				"id": 677,
 				"spell": "pucheng",
-				"name": "ÆÖ³Ç"
+				"name": "æµ¦åŸ"
 			}, {
 				"id": 678,
 				"spell": "pujiang",
-				"name": "ÆÖ½­"
+				"name": "æµ¦æ±Ÿ"
 			}, {
 				"id": 679,
 				"spell": "pujiang",
-				"name": "ÆÑ½­"
+				"name": "è’²æ±Ÿ"
 			}, {
 				"id": 680,
 				"spell": "pulandian",
-				"name": "ÆÕÀ¼µê"
+				"name": "æ™®å…°åº—"
 			}, {
 				"id": 681,
 				"spell": "puning",
-				"name": "ÆÕÄş"
+				"name": "æ™®å®"
 			}],
 			"Q": [{
 				"id": 34,
 				"spell": "qingdao",
-				"name": "Çàµº"
+				"name": "é’å²›"
 			}, {
 				"id": 35,
 				"spell": "quanzhou",
-				"name": "ÈªÖİ"
+				"name": "æ³‰å·"
 			}, {
 				"id": 224,
 				"spell": "qiandong",
-				"name": "Ç­¶«"
+				"name": "é»”ä¸œ"
 			}, {
 				"id": 225,
 				"spell": "qiannan",
-				"name": "Ç­ÄÏ"
+				"name": "é»”å—"
 			}, {
 				"id": 226,
 				"spell": "qianxinan",
-				"name": "Ç­Î÷ÄÏ"
+				"name": "é»”è¥¿å—"
 			}, {
 				"id": 227,
 				"spell": "qingyang",
-				"name": "ÇìÑô"
+				"name": "åº†é˜³"
 			}, {
 				"id": 228,
 				"spell": "qingyuan",
-				"name": "ÇåÔ¶"
+				"name": "æ¸…è¿œ"
 			}, {
 				"id": 229,
 				"spell": "qinhuangdao",
-				"name": "ÇØ»Êµº"
+				"name": "ç§¦çš‡å²›"
 			}, {
 				"id": 230,
 				"spell": "qinzhou",
-				"name": "ÇÕÖİ"
+				"name": "é’¦å·"
 			}, {
 				"id": 231,
 				"spell": "qiqihaer",
-				"name": "ÆëÆë¹ş¶û"
+				"name": "é½é½å“ˆå°”"
 			}, {
 				"id": 232,
 				"spell": "qitaihe",
-				"name": "ÆßÌ¨ºÓ"
+				"name": "ä¸ƒå°æ²³"
 			}, {
 				"id": 233,
 				"spell": "qujing",
-				"name": "Çú¾¸"
+				"name": "æ›²é–"
 			}, {
 				"id": 234,
 				"spell": "quzhou",
-				"name": "áéÖİ"
+				"name": "è¡¢å·"
 			}, {
 				"id": 682,
 				"spell": "qianan",
-				"name": "Ç¨°²"
+				"name": "è¿å®‰"
 			}, {
 				"id": 683,
 				"spell": "qianshan",
-				"name": "Ç±É½"
+				"name": "æ½œå±±"
 			}, {
 				"id": 684,
 				"spell": "qianshan",
-				"name": "Ç¦É½"
+				"name": "é“…å±±"
 			}, {
 				"id": 685,
 				"spell": "qianxi",
-				"name": "Ç¨Î÷"
+				"name": "è¿è¥¿"
 			}, {
 				"id": 686,
 				"spell": "qidong",
-				"name": "Æô¶«"
+				"name": "å¯ä¸œ"
 			}, {
 				"id": 687,
 				"spell": "qihe",
-				"name": "ÆëºÓ"
+				"name": "é½æ²³"
 			}, {
 				"id": 688,
 				"spell": "qijiang",
-				"name": "ôë½­"
+				"name": "ç¶¦æ±Ÿ"
 			}, {
 				"id": 689,
 				"spell": "qimen",
-				"name": "ÆîÃÅ"
+				"name": "ç¥é—¨"
 			}, {
 				"id": 690,
 				"spell": "qingliu",
-				"name": "ÇåÁ÷"
+				"name": "æ¸…æµ"
 			}, {
 				"id": 691,
 				"spell": "qingtian",
-				"name": "ÇàÌï"
+				"name": "é’ç”°"
 			}, {
 				"id": 692,
 				"spell": "qingxin",
-				"name": "ÇåĞÂ"
+				"name": "æ¸…æ–°"
 			}, {
 				"id": 693,
 				"spell": "qingyang",
-				"name": "ÇàÑô"
+				"name": "é’é˜³"
 			}, {
 				"id": 694,
 				"spell": "qingyuan",
-				"name": "ÇìÔª"
+				"name": "åº†å…ƒ"
 			}, {
 				"id": 695,
 				"spell": "qingyun",
-				"name": "ÇìÔÆ"
+				"name": "åº†äº‘"
 			}, {
 				"id": 696,
 				"spell": "qingzhen",
-				"name": "ÇåÕò"
+				"name": "æ¸…é•‡"
 			}, {
 				"id": 697,
 				"spell": "qingzhou",
-				"name": "ÇàÖİ"
+				"name": "é’å·"
 			}, {
 				"id": 698,
 				"spell": "qinyang",
-				"name": "ÇßÑô"
+				"name": "æ²é˜³"
 			}, {
 				"id": 699,
 				"spell": "qionglai",
-				"name": "ÚöáÁ"
+				"name": "é‚›å´ƒ"
 			}, {
 				"id": 700,
 				"spell": "qixia",
-				"name": "ÆÜÏ¼"
+				"name": "æ –éœ"
 			}, {
 				"id": 701,
 				"spell": "quanjiao",
-				"name": "È«½·"
+				"name": "å…¨æ¤’"
 			}, {
 				"id": 702,
 				"spell": "quannan",
-				"name": "È«ÄÏ"
+				"name": "å…¨å—"
 			}, {
 				"id": 703,
 				"spell": "qufu",
-				"name": "Çú¸·"
+				"name": "æ›²é˜œ"
 			}, {
 				"id": 704,
 				"spell": "qujiang",
-				"name": "Çú½­"
+				"name": "æ›²æ±Ÿ"
 			}],
 			"R": [{
 				"id": 235,
 				"spell": "rikaze",
-				"name": "ÈÕ¿¦Ôò"
+				"name": "æ—¥å–€åˆ™"
 			}, {
 				"id": 236,
 				"spell": "rizhao",
-				"name": "ÈÕÕÕ"
+				"name": "æ—¥ç…§"
 			}, {
 				"id": 705,
 				"spell": "raoping",
-				"name": "ÈÄÆ½"
+				"name": "é¥¶å¹³"
 			}, {
 				"id": 706,
 				"spell": "renhua",
-				"name": "ÈÊ»¯"
+				"name": "ä»åŒ–"
 			}, {
 				"id": 707,
 				"spell": "rongan",
-				"name": "ÈÚ°²"
+				"name": "èå®‰"
 			}, {
 				"id": 708,
 				"spell": "rongchang",
-				"name": "ÈÙ²ı"
+				"name": "è£æ˜Œ"
 			}, {
 				"id": 709,
 				"spell": "rongcheng",
-				"name": "ÈÙ³É"
+				"name": "è£æˆ"
 			}, {
 				"id": 710,
 				"spell": "rongshui",
-				"name": "ÈÚË®"
+				"name": "èæ°´"
 			}, {
 				"id": 711,
 				"spell": "rudong",
-				"name": "Èç¶«"
+				"name": "å¦‚ä¸œ"
 			}, {
 				"id": 712,
 				"spell": "rugao",
-				"name": "Èç¸Ş"
+				"name": "å¦‚çš‹"
 			}, {
 				"id": 713,
 				"spell": "ruian",
-				"name": "Èğ°²"
+				"name": "ç‘å®‰"
 			}, {
 				"id": 714,
 				"spell": "ruichang",
-				"name": "Èğ²ı"
+				"name": "ç‘æ˜Œ"
 			}, {
 				"id": 715,
 				"spell": "ruijin",
-				"name": "Èğ½ğ"
+				"name": "ç‘é‡‘"
 			}, {
 				"id": 716,
 				"spell": "rushan",
-				"name": "ÈéÉ½"
+				"name": "ä¹³å±±"
 			}, {
 				"id": 717,
 				"spell": "ruyang",
-				"name": "ÈêÑô"
+				"name": "æ±é˜³"
 			}, {
 				"id": 718,
 				"spell": "ruyuan",
-				"name": "ÈéÔ´"
+				"name": "ä¹³æº"
 			}],
 			"S": [{
 				"id": 3,
 				"spell": "shanghai",
-				"name": "ÉÏº£"
+				"name": "ä¸Šæµ·"
 			}, {
 				"id": 36,
 				"spell": "shenyang",
-				"name": "ÉòÑô"
+				"name": "æ²ˆé˜³"
 			}, {
 				"id": 37,
 				"spell": "shenzhen",
-				"name": "ÉîÛÚ"
+				"name": "æ·±åœ³"
 			}, {
 				"id": 38,
 				"spell": "shijiazhuang",
-				"name": "Ê¯¼Ò×¯"
+				"name": "çŸ³å®¶åº„"
 			}, {
 				"id": 39,
 				"spell": "suzhou",
-				"name": "ËÕÖİ"
+				"name": "è‹å·"
 			}, {
 				"id": 237,
 				"spell": "sanmenxia",
-				"name": "ÈıÃÅÏ¿"
+				"name": "ä¸‰é—¨å³¡"
 			}, {
 				"id": 238,
 				"spell": "sanming",
-				"name": "ÈıÃ÷"
+				"name": "ä¸‰æ˜"
 			}, {
 				"id": 239,
 				"spell": "sanya",
-				"name": "ÈıÑÇ"
+				"name": "ä¸‰äºš"
 			}, {
 				"id": 240,
 				"spell": "shangluo",
-				"name": "ÉÌÂå"
+				"name": "å•†æ´›"
 			}, {
 				"id": 241,
 				"spell": "shangqiu",
-				"name": "ÉÌÇğ"
+				"name": "å•†ä¸˜"
 			}, {
 				"id": 242,
 				"spell": "shangrao",
-				"name": "ÉÏÈÄ"
+				"name": "ä¸Šé¥¶"
 			}, {
 				"id": 243,
 				"spell": "shannan",
-				"name": "É½ÄÏ"
+				"name": "å±±å—"
 			}, {
 				"id": 244,
 				"spell": "shantou",
-				"name": "ÉÇÍ·"
+				"name": "æ±•å¤´"
 			}, {
 				"id": 245,
 				"spell": "shanwei",
-				"name": "ÉÇÎ²"
+				"name": "æ±•å°¾"
 			}, {
 				"id": 246,
 				"spell": "shaoguan",
-				"name": "ÉØ¹Ø"
+				"name": "éŸ¶å…³"
 			}, {
 				"id": 247,
 				"spell": "shaoxing",
-				"name": "ÉÜĞË"
+				"name": "ç»å…´"
 			}, {
 				"id": 248,
 				"spell": "shaoyang",
-				"name": "ÉÛÑô"
+				"name": "é‚µé˜³"
 			}, {
 				"id": 249,
 				"spell": "shiyan",
-				"name": "Ê®Ñß"
+				"name": "åå °"
 			}, {
 				"id": 250,
 				"spell": "shizuishan",
-				"name": "Ê¯×ìÉ½"
+				"name": "çŸ³å˜´å±±"
 			}, {
 				"id": 251,
 				"spell": "shuangyashan",
-				"name": "Ë«Ñ¼É½"
+				"name": "åŒé¸­å±±"
 			}, {
 				"id": 252,
 				"spell": "shuozhou",
-				"name": "Ë·Öİ"
+				"name": "æœ”å·"
 			}, {
 				"id": 253,
 				"spell": "siping",
-				"name": "ËÄÆ½"
+				"name": "å››å¹³"
 			}, {
 				"id": 254,
 				"spell": "songyuan",
-				"name": "ËÉÔ­"
+				"name": "æ¾åŸ"
 			}, {
 				"id": 255,
 				"spell": "suihua",
-				"name": "Ëç»¯"
+				"name": "ç»¥åŒ–"
 			}, {
 				"id": 256,
 				"spell": "suining",
-				"name": "ËìÄş"
+				"name": "é‚å®"
 			}, {
 				"id": 257,
 				"spell": "suizhou",
-				"name": "ËæÖİ"
+				"name": "éšå·"
 			}, {
 				"id": 258,
 				"spell": "suqian",
-				"name": "ËŞÇ¨"
+				"name": "å®¿è¿"
 			}, {
 				"id": 259,
 				"spell": "suzhou",
-				"name": "ËŞÖİ"
+				"name": "å®¿å·"
 			}, {
 				"id": 719,
 				"spell": "sanjiang",
-				"name": "Èı½­"
+				"name": "ä¸‰æ±Ÿ"
 			}, {
 				"id": 720,
 				"spell": "sanmen",
-				"name": "ÈıÃÅ"
+				"name": "ä¸‰é—¨"
 			}, {
 				"id": 721,
 				"spell": "saoan",
-				"name": "Ú¯°²"
+				"name": "è¯å®‰"
 			}, {
 				"id": 722,
 				"spell": "shanggao",
-				"name": "ÉÏ¸ß"
+				"name": "ä¸Šé«˜"
 			}, {
 				"id": 723,
 				"spell": "shanghang",
-				"name": "ÉÏº¼"
+				"name": "ä¸Šæ­"
 			}, {
 				"id": 724,
 				"spell": "shanghe",
-				"name": "ÉÌºÓ"
+				"name": "å•†æ²³"
 			}, {
 				"id": 725,
 				"spell": "shangli",
-				"name": "ÉÏÀõ"
+				"name": "ä¸Šæ —"
 			}, {
 				"id": 726,
 				"spell": "shanglin",
-				"name": "ÉÏÁÖ"
+				"name": "ä¸Šæ—"
 			}, {
 				"id": 727,
 				"spell": "shangrao",
-				"name": "ÉÏÈÄ"
+				"name": "ä¸Šé¥¶"
 			}, {
 				"id": 728,
 				"spell": "shangyou",
-				"name": "ÉÏÓÌ"
+				"name": "ä¸ŠçŠ¹"
 			}, {
 				"id": 729,
 				"spell": "shangyu",
-				"name": "ÉÏÓİ"
+				"name": "ä¸Šè™"
 			}, {
 				"id": 730,
 				"spell": "shangzhi",
-				"name": "ÉĞÖ¾"
+				"name": "å°šå¿—"
 			}, {
 				"id": 731,
 				"spell": "shaowu",
-				"name": "ÉÛÎä"
+				"name": "é‚µæ­¦"
 			}, {
 				"id": 732,
 				"spell": "shaoxing",
-				"name": "ÉÜĞË"
+				"name": "ç»å…´"
 			}, {
 				"id": 733,
 				"spell": "shaxian",
-				"name": "É³ÏØ"
+				"name": "æ²™å¿"
 			}, {
 				"id": 734,
 				"spell": "shengsi",
-				"name": "áÓãô"
+				"name": "åµŠæ³—"
 			}, {
 				"id": 735,
 				"spell": "shengzhou",
-				"name": "áÓÖİ"
+				"name": "åµŠå·"
 			}, {
 				"id": 736,
 				"spell": "shenxian",
-				"name": "İ·ÏØ"
+				"name": "è˜å¿"
 			}, {
 				"id": 737,
 				"spell": "shenze",
-				"name": "ÉîÔó"
+				"name": "æ·±æ³½"
 			}, {
 				"id": 738,
 				"spell": "shexian",
-				"name": "ì¨ÏØ"
+				"name": "æ­™å¿"
 			}, {
 				"id": 739,
 				"spell": "sheyang",
-				"name": "ÉäÑô"
+				"name": "å°„é˜³"
 			}, {
 				"id": 740,
 				"spell": "shicheng",
-				"name": "Ê¯³Ç"
+				"name": "çŸ³åŸ"
 			}, {
 				"id": 741,
 				"spell": "shilin",
-				"name": "Ê¯ÁÖ"
+				"name": "çŸ³æ—"
 			}, {
 				"id": 742,
 				"spell": "shishi",
-				"name": "Ê¯Ê¨"
+				"name": "çŸ³ç‹®"
 			}, {
 				"id": 743,
 				"spell": "shitai",
-				"name": "Ê¯Ì¨"
+				"name": "çŸ³å°"
 			}, {
 				"id": 744,
 				"spell": "shixing",
-				"name": "Ê¼ĞË"
+				"name": "å§‹å…´"
 			}, {
 				"id": 745,
 				"spell": "shizhu",
-				"name": "Ê¯Öù"
+				"name": "çŸ³æŸ±"
 			}, {
 				"id": 746,
 				"spell": "shouguang",
-				"name": "ÊÙ¹â"
+				"name": "å¯¿å…‰"
 			}, {
 				"id": 747,
 				"spell": "shouning",
-				"name": "ÊÙÄş"
+				"name": "å¯¿å®"
 			}, {
 				"id": 748,
 				"spell": "shouxian",
-				"name": "ÊÙÏØ"
+				"name": "å¯¿å¿"
 			}, {
 				"id": 749,
 				"spell": "shuangcheng",
-				"name": "Ë«³Ç"
+				"name": "åŒåŸ"
 			}, {
 				"id": 750,
 				"spell": "shuangliu",
-				"name": "Ë«Á÷"
+				"name": "åŒæµ"
 			}, {
 				"id": 751,
 				"spell": "shucheng",
-				"name": "Êæ³Ç"
+				"name": "èˆ’åŸ"
 			}, {
 				"id": 752,
 				"spell": "shulan",
-				"name": "ÊæÀ¼"
+				"name": "èˆ’å…°"
 			}, {
 				"id": 753,
 				"spell": "shunchang",
-				"name": "Ë³²ı"
+				"name": "é¡ºæ˜Œ"
 			}, {
 				"id": 754,
 				"spell": "shuyang",
-				"name": "ãğÑô"
+				"name": "æ²­é˜³"
 			}, {
 				"id": 755,
 				"spell": "sihong",
-				"name": "ãôºé"
+				"name": "æ³—æ´ª"
 			}, {
 				"id": 756,
 				"spell": "sihui",
-				"name": "ËÄ»á"
+				"name": "å››ä¼š"
 			}, {
 				"id": 757,
 				"spell": "sishui",
-				"name": "ãôË®"
+				"name": "æ³—æ°´"
 			}, {
 				"id": 758,
 				"spell": "sixian",
-				"name": "ãôÏØ"
+				"name": "æ³—å¿"
 			}, {
 				"id": 759,
 				"spell": "siyang",
-				"name": "ãôÑô"
+				"name": "æ³—é˜³"
 			}, {
 				"id": 760,
 				"spell": "songming",
-				"name": "áÔÃ÷"
+				"name": "åµ©æ˜"
 			}, {
 				"id": 761,
 				"spell": "songxi",
-				"name": "ËÉÏª"
+				"name": "æ¾æºª"
 			}, {
 				"id": 762,
 				"spell": "songxian",
-				"name": "áÔÏØ"
+				"name": "åµ©å¿"
 			}, {
 				"id": 763,
 				"spell": "songyang",
-				"name": "ËÉÑô"
+				"name": "æ¾é˜³"
 			}, {
 				"id": 764,
 				"spell": "suichang",
-				"name": "Ëì²ı"
+				"name": "é‚æ˜Œ"
 			}, {
 				"id": 765,
 				"spell": "suichuan",
-				"name": "Ëì´¨"
+				"name": "é‚å·"
 			}, {
 				"id": 766,
 				"spell": "suining",
-				"name": "î¡Äş"
+				"name": "ç¢å®"
 			}, {
 				"id": 767,
 				"spell": "suixi",
-				"name": "å¡Ïª"
+				"name": "æ¿‰æºª"
 			}, {
 				"id": 768,
 				"spell": "suixi",
-				"name": "ËìÏª"
+				"name": "é‚æºª"
 			}, {
 				"id": 769,
 				"spell": "susong",
-				"name": "ËŞËÉ"
+				"name": "å®¿æ¾"
 			}, {
 				"id": 770,
 				"spell": "suyu",
-				"name": "ËŞÔ¥"
+				"name": "å®¿è±«"
 			}],
 			"T": [{
 				"id": 4,
 				"spell": "tianjin",
-				"name": "Ìì½ò"
+				"name": "å¤©æ´¥"
 			}, {
 				"id": 40,
 				"spell": "taizhou",
-				"name": "Ì¨Öİ"
+				"name": "å°å·"
 			}, {
 				"id": 41,
 				"spell": "tangshan",
-				"name": "ÌÆÉ½"
+				"name": "å”å±±"
 			}, {
 				"id": 260,
 				"spell": "tachengdi",
-				"name": "Ëş³ÇµØ"
+				"name": "å¡”åŸåœ°"
 			}, {
 				"id": 261,
 				"spell": "taian",
-				"name": "Ì©°²"
+				"name": "æ³°å®‰"
 			}, {
 				"id": 262,
 				"spell": "taiyuan",
-				"name": "Ì«Ô­"
+				"name": "å¤ªåŸ"
 			}, {
 				"id": 263,
 				"spell": "taizhou",
-				"name": "Ì©Öİ"
+				"name": "æ³°å·"
 			}, {
 				"id": 264,
 				"spell": "tianshui",
-				"name": "ÌìË®"
+				"name": "å¤©æ°´"
 			}, {
 				"id": 265,
 				"spell": "tieling",
-				"name": "ÌúÁë"
+				"name": "é“å²­"
 			}, {
 				"id": 266,
 				"spell": "tongchuan",
-				"name": "Í­´¨"
+				"name": "é“œå·"
 			}, {
 				"id": 267,
 				"spell": "tonghua",
-				"name": "Í¨»¯"
+				"name": "é€šåŒ–"
 			}, {
 				"id": 268,
 				"spell": "tongliao",
-				"name": "Í¨ÁÉ"
+				"name": "é€šè¾½"
 			}, {
 				"id": 269,
 				"spell": "tongling",
-				"name": "Í­Áê"
+				"name": "é“œé™µ"
 			}, {
 				"id": 270,
 				"spell": "tongren",
-				"name": "Í­ÈÊ"
+				"name": "é“œä»"
 			}, {
 				"id": 271,
 				"spell": "tulufan",
-				"name": "ÍÂÂ³·¬"
+				"name": "åé²ç•ª"
 			}, {
 				"id": 771,
 				"spell": "taicang",
-				"name": "Ì«²Ö"
+				"name": "å¤ªä»“"
 			}, {
 				"id": 772,
 				"spell": "taihe",
-				"name": "Ì«ºÍ"
+				"name": "å¤ªå’Œ"
 			}, {
 				"id": 773,
 				"spell": "taihe",
-				"name": "Ì©ºÍ"
+				"name": "æ³°å’Œ"
 			}, {
 				"id": 774,
 				"spell": "taihu",
-				"name": "Ì«ºş"
+				"name": "å¤ªæ¹–"
 			}, {
 				"id": 775,
 				"spell": "taining",
-				"name": "Ì©Äş"
+				"name": "æ³°å®"
 			}, {
 				"id": 776,
 				"spell": "taishan",
-				"name": "Ì¨É½"
+				"name": "å°å±±"
 			}, {
 				"id": 777,
 				"spell": "taishun",
-				"name": "Ì©Ë³"
+				"name": "æ³°é¡º"
 			}, {
 				"id": 778,
 				"spell": "taixing",
-				"name": "Ì©ĞË"
+				"name": "æ³°å…´"
 			}, {
 				"id": 779,
 				"spell": "tancheng",
-				"name": "Û°³Ç"
+				"name": "éƒ¯åŸ"
 			}, {
 				"id": 780,
 				"spell": "tanghai",
-				"name": "ÌÆº£"
+				"name": "å”æµ·"
 			}, {
 				"id": 781,
 				"spell": "tengzhou",
-				"name": "ëøÖİ"
+				"name": "æ»•å·"
 			}, {
 				"id": 782,
 				"spell": "tianchang",
-				"name": "Ìì³¤"
+				"name": "å¤©é•¿"
 			}, {
 				"id": 783,
 				"spell": "tiantai",
-				"name": "ÌìÌ¨"
+				"name": "å¤©å°"
 			}, {
 				"id": 784,
 				"spell": "tongcheng",
-				"name": "Í©³Ç"
+				"name": "æ¡åŸ"
 			}, {
 				"id": 785,
 				"spell": "tonggu",
-				"name": "Í­¹Ä"
+				"name": "é“œé¼“"
 			}, {
 				"id": 786,
 				"spell": "tonghe",
-				"name": "Í¨ºÓ"
+				"name": "é€šæ²³"
 			}, {
 				"id": 787,
 				"spell": "tongliang",
-				"name": "Í­Áº"
+				"name": "é“œæ¢"
 			}, {
 				"id": 788,
 				"spell": "tongling",
-				"name": "Í­Áê"
+				"name": "é“œé™µ"
 			}, {
 				"id": 789,
 				"spell": "tonglu",
-				"name": "Í©Â®"
+				"name": "æ¡åº"
 			}, {
 				"id": 790,
 				"spell": "tongnan",
-				"name": "äüÄÏ"
+				"name": "æ½¼å—"
 			}, {
 				"id": 791,
 				"spell": "tongshan",
-				"name": "Í­É½"
+				"name": "é“œå±±"
 			}, {
 				"id": 792,
 				"spell": "tongxiang",
-				"name": "Í©Ïç"
+				"name": "æ¡ä¹¡"
 			}, {
 				"id": 793,
 				"spell": "tongzhou",
-				"name": "Í¨Öİ"
+				"name": "é€šå·"
 			}],
 			"W": [{
 				"id": 42,
 				"spell": "weifang",
-				"name": "Î«·»"
+				"name": "æ½åŠ"
 			}, {
 				"id": 43,
 				"spell": "weihai",
-				"name": "Íşº£"
+				"name": "å¨æµ·"
 			}, {
 				"id": 44,
 				"spell": "wuhan",
-				"name": "Îäºº"
+				"name": "æ­¦æ±‰"
 			}, {
 				"id": 45,
 				"spell": "wuxi",
-				"name": "ÎŞÎı"
+				"name": "æ— é”¡"
 			}, {
 				"id": 272,
 				"spell": "weinan",
-				"name": "Î¼ÄÏ"
+				"name": "æ¸­å—"
 			}, {
 				"id": 273,
 				"spell": "wenshan",
-				"name": "ÎÄÉ½"
+				"name": "æ–‡å±±"
 			}, {
 				"id": 274,
 				"spell": "wenzhou",
-				"name": "ÎÂÖİ"
+				"name": "æ¸©å·"
 			}, {
 				"id": 275,
 				"spell": "wuhai",
-				"name": "ÎÚº£"
+				"name": "ä¹Œæµ·"
 			}, {
 				"id": 276,
 				"spell": "wuhu",
-				"name": "Îßºş"
+				"name": "èŠœæ¹–"
 			}, {
 				"id": 277,
 				"spell": "wulanchabu",
-				"name": "ÎÚÀ¼²ì²¼"
+				"name": "ä¹Œå…°å¯Ÿå¸ƒ"
 			}, {
 				"id": 278,
 				"spell": "wulumuqi",
-				"name": "ÎÚÂ³Ä¾Æë"
+				"name": "ä¹Œé²æœ¨é½"
 			}, {
 				"id": 279,
 				"spell": "wuwei",
-				"name": "ÎäÍş"
+				"name": "æ­¦å¨"
 			}, {
 				"id": 280,
 				"spell": "wuzhong",
-				"name": "ÎâÖÒ"
+				"name": "å´å¿ "
 			}, {
 				"id": 281,
 				"spell": "wuzhou",
-				"name": "ÎàÖİ"
+				"name": "æ¢§å·"
 			}, {
 				"id": 794,
 				"spell": "wafangdian",
-				"name": "Íß·¿µê"
+				"name": "ç“¦æˆ¿åº—"
 			}, {
 				"id": 795,
 				"spell": "wanan",
-				"name": "Íò°²"
+				"name": "ä¸‡å®‰"
 			}, {
 				"id": 796,
 				"spell": "wangcheng",
-				"name": "Íû³Ç"
+				"name": "æœ›åŸ"
 			}, {
 				"id": 797,
 				"spell": "wangjiang",
-				"name": "Íû½­"
+				"name": "æœ›æ±Ÿ"
 			}, {
 				"id": 798,
 				"spell": "wannian",
-				"name": "ÍòÄê"
+				"name": "ä¸‡å¹´"
 			}, {
 				"id": 799,
 				"spell": "wanzai",
-				"name": "ÍòÔØ"
+				"name": "ä¸‡è½½"
 			}, {
 				"id": 800,
 				"spell": "weishan",
-				"name": "Î¢É½"
+				"name": "å¾®å±±"
 			}, {
 				"id": 801,
 				"spell": "wencheng",
-				"name": "ÎÄ³É"
+				"name": "æ–‡æˆ"
 			}, {
 				"id": 802,
 				"spell": "wendeng",
-				"name": "ÎÄµÇ"
+				"name": "æ–‡ç™»"
 			}, {
 				"id": 803,
 				"spell": "wengyuan",
-				"name": "ÎÌÔ´"
+				"name": "ç¿æº"
 			}, {
 				"id": 804,
 				"spell": "wenling",
-				"name": "ÎÂÁë"
+				"name": "æ¸©å²­"
 			}, {
 				"id": 805,
 				"spell": "wenshang",
-				"name": "ãëÉÏ"
+				"name": "æ±¶ä¸Š"
 			}, {
 				"id": 806,
 				"spell": "wenxian",
-				"name": "ÎÂÏØ"
+				"name": "æ¸©å¿"
 			}, {
 				"id": 807,
 				"spell": "woyang",
-				"name": "ÎĞÑô"
+				"name": "æ¶¡é˜³"
 			}, {
 				"id": 808,
 				"spell": "wuchang",
-				"name": "Îå³£"
+				"name": "äº”å¸¸"
 			}, {
 				"id": 809,
 				"spell": "wucheng",
-				"name": "Îä³Ç"
+				"name": "æ­¦åŸ"
 			}, {
 				"id": 810,
 				"spell": "wuchuan",
-				"name": "Îâ´¨"
+				"name": "å´å·"
 			}, {
 				"id": 811,
 				"spell": "wudi",
-				"name": "ÎŞé¦"
+				"name": "æ— æ££"
 			}, {
 				"id": 812,
 				"spell": "wuhe",
-				"name": "ÎåºÓ"
+				"name": "äº”æ²³"
 			}, {
 				"id": 813,
 				"spell": "wuhu",
-				"name": "Îßºş"
+				"name": "èŠœæ¹–"
 			}, {
 				"id": 814,
 				"spell": "wuhua",
-				"name": "Îå»ª"
+				"name": "äº”å"
 			}, {
 				"id": 815,
 				"spell": "wuji",
-				"name": "ÎŞ¼«"
+				"name": "æ— æ"
 			}, {
 				"id": 816,
 				"spell": "wujiang",
-				"name": "Îâ½­"
+				"name": "å´æ±Ÿ"
 			}, {
 				"id": 817,
 				"spell": "wulian",
-				"name": "ÎåÁ«"
+				"name": "äº”è²"
 			}, {
 				"id": 818,
 				"spell": "wulong",
-				"name": "ÎäÂ¡"
+				"name": "æ­¦éš†"
 			}, {
 				"id": 819,
 				"spell": "wuming",
-				"name": "ÎäÃù"
+				"name": "æ­¦é¸£"
 			}, {
 				"id": 820,
 				"spell": "wuning",
-				"name": "ÎäÄş"
+				"name": "æ­¦å®"
 			}, {
 				"id": 821,
 				"spell": "wuping",
-				"name": "ÎäÆ½"
+				"name": "æ­¦å¹³"
 			}, {
 				"id": 822,
 				"spell": "wushan",
-				"name": "Î×É½"
+				"name": "å·«å±±"
 			}, {
 				"id": 823,
 				"spell": "wuwei",
-				"name": "ÎŞÎª"
+				"name": "æ— ä¸º"
 			}, {
 				"id": 824,
 				"spell": "wuxi",
-				"name": "Î×Ïª"
+				"name": "å·«æºª"
 			}, {
 				"id": 825,
 				"spell": "wuyi",
-				"name": "ÎäÒå"
+				"name": "æ­¦ä¹‰"
 			}, {
 				"id": 826,
 				"spell": "wuyishan",
-				"name": "ÎäÒÄÉ½"
+				"name": "æ­¦å¤·å±±"
 			}, {
 				"id": 827,
 				"spell": "wuyuan",
-				"name": "æÄÔ´"
+				"name": "å©ºæº"
 			}, {
 				"id": 828,
 				"spell": "wuzhi",
-				"name": "ÎäÚì"
+				"name": "æ­¦é™Ÿ"
 			}],
 			"X": [{
 				"id": 46,
 				"spell": "xiamen",
-				"name": "ÏÃÃÅ"
+				"name": "å¦é—¨"
 			}, {
 				"id": 47,
 				"spell": "xian",
-				"name": "Î÷°²"
+				"name": "è¥¿å®‰"
 			}, {
 				"id": 48,
 				"spell": "xuchang",
-				"name": "Ğí²ı"
+				"name": "è®¸æ˜Œ"
 			}, {
 				"id": 49,
 				"spell": "xuzhou",
-				"name": "ĞìÖİ"
+				"name": "å¾å·"
 			}, {
 				"id": 282,
 				"spell": "xiangfan",
-				"name": "Ïå·®"
+				"name": "è¥„æ¨Š"
 			}, {
 				"id": 283,
 				"spell": "xiangtan",
-				"name": "ÏæÌ¶"
+				"name": "æ¹˜æ½­"
 			}, {
 				"id": 284,
 				"spell": "xiangxi",
-				"name": "ÏæÎ÷"
+				"name": "æ¹˜è¥¿"
 			}, {
 				"id": 285,
 				"spell": "xianning",
-				"name": "ÏÌÄş"
+				"name": "å’¸å®"
 			}, {
 				"id": 286,
 				"spell": "xianyang",
-				"name": "ÏÌÑô"
+				"name": "å’¸é˜³"
 			}, {
 				"id": 287,
 				"spell": "xiaogan",
-				"name": "Ğ¢¸Ğ"
+				"name": "å­æ„Ÿ"
 			}, {
 				"id": 288,
 				"spell": "xilinguolemeng",
-				"name": "ÎıÁÖ¹ùÀÕÃË"
+				"name": "é”¡æ—éƒ­å‹’ç›Ÿ"
 			}, {
 				"id": 289,
 				"spell": "xinganmeng",
-				"name": "ĞË°²ÃË"
+				"name": "å…´å®‰ç›Ÿ"
 			}, {
 				"id": 290,
 				"spell": "xingtai",
-				"name": "ĞÏÌ¨"
+				"name": "é‚¢å°"
 			}, {
 				"id": 291,
 				"spell": "xining",
-				"name": "Î÷Äş"
+				"name": "è¥¿å®"
 			}, {
 				"id": 292,
 				"spell": "xinxiang",
-				"name": "ĞÂÏç"
+				"name": "æ–°ä¹¡"
 			}, {
 				"id": 293,
 				"spell": "xinyang",
-				"name": "ĞÅÑô"
+				"name": "ä¿¡é˜³"
 			}, {
 				"id": 294,
 				"spell": "xinyu",
-				"name": "ĞÂÓà"
+				"name": "æ–°ä½™"
 			}, {
 				"id": 295,
 				"spell": "xinzhou",
-				"name": "ĞÃÖİ"
+				"name": "å¿»å·"
 			}, {
 				"id": 296,
 				"spell": "xishuangbanna",
-				"name": "Î÷Ë«°æÄÉ"
+				"name": "è¥¿åŒç‰ˆçº³"
 			}, {
 				"id": 297,
 				"spell": "xuancheng",
-				"name": "Ğû³Ç"
+				"name": "å®£åŸ"
 			}, {
 				"id": 829,
 				"spell": "xiajiang",
-				"name": "Ï¿½­"
+				"name": "å³¡æ±Ÿ"
 			}, {
 				"id": 830,
 				"spell": "xiajin",
-				"name": "ÏÄ½ò"
+				"name": "å¤æ´¥"
 			}, {
 				"id": 831,
 				"spell": "xiangshan",
-				"name": "ÏóÉ½"
+				"name": "è±¡å±±"
 			}, {
 				"id": 832,
 				"spell": "xiangshui",
-				"name": "ÏìË®"
+				"name": "å“æ°´"
 			}, {
 				"id": 833,
 				"spell": "xianju",
-				"name": "ÏÉ¾Ó"
+				"name": "ä»™å±…"
 			}, {
 				"id": 834,
 				"spell": "xianyou",
-				"name": "ÏÉÓÎ"
+				"name": "ä»™æ¸¸"
 			}, {
 				"id": 835,
 				"spell": "xiaoxian",
-				"name": "ÏôÏØ"
+				"name": "è§å¿"
 			}, {
 				"id": 836,
 				"spell": "xiapu",
-				"name": "Ï¼ÆÖ"
+				"name": "éœæµ¦"
 			}, {
 				"id": 837,
 				"spell": "xifeng",
-				"name": "Ï¢·é"
+				"name": "æ¯çƒ½"
 			}, {
 				"id": 838,
 				"spell": "xinan",
-				"name": "ĞÂ°²"
+				"name": "æ–°å®‰"
 			}, {
 				"id": 839,
 				"spell": "xinchang",
-				"name": "ĞÂ²ı"
+				"name": "æ–°æ˜Œ"
 			}, {
 				"id": 840,
 				"spell": "xinfeng",
-				"name": "ĞÅ·á"
+				"name": "ä¿¡ä¸°"
 			}, {
 				"id": 841,
 				"spell": "xinfeng",
-				"name": "ĞÂ·á"
+				"name": "æ–°ä¸°"
 			}, {
 				"id": 842,
 				"spell": "xingan",
-				"name": "ĞÂ¸É"
+				"name": "æ–°å¹²"
 			}, {
 				"id": 843,
 				"spell": "xingguo",
-				"name": "ĞË¹ú"
+				"name": "å…´å›½"
 			}, {
 				"id": 844,
 				"spell": "xinghua",
-				"name": "ĞË»¯"
+				"name": "å…´åŒ–"
 			}, {
 				"id": 845,
 				"spell": "xingning",
-				"name": "ĞËÄş"
+				"name": "å…´å®"
 			}, {
 				"id": 846,
 				"spell": "xingtang",
-				"name": "ĞĞÌÆ"
+				"name": "è¡Œå”"
 			}, {
 				"id": 847,
 				"spell": "xingyang",
-				"name": "ÜşÑô"
+				"name": "è¥é˜³"
 			}, {
 				"id": 848,
 				"spell": "xingzi",
-				"name": "ĞÇ×Ó"
+				"name": "æ˜Ÿå­"
 			}, {
 				"id": 849,
 				"spell": "xinji",
-				"name": "ĞÁ¼¯"
+				"name": "è¾›é›†"
 			}, {
 				"id": 850,
 				"spell": "xinjian",
-				"name": "ĞÂ½¨"
+				"name": "æ–°å»º"
 			}, {
 				"id": 851,
 				"spell": "xinjin",
-				"name": "ĞÂ½ò"
+				"name": "æ–°æ´¥"
 			}, {
 				"id": 852,
 				"spell": "xinle",
-				"name": "ĞÂÀÖ"
+				"name": "æ–°ä¹"
 			}, {
 				"id": 853,
 				"spell": "xinmin",
-				"name": "ĞÂÃñ"
+				"name": "æ–°æ°‘"
 			}, {
 				"id": 854,
 				"spell": "xinmi",
-				"name": "ĞÂÃÜ"
+				"name": "æ–°å¯†"
 			}, {
 				"id": 855,
 				"spell": "xintai",
-				"name": "ĞÂÌ©"
+				"name": "æ–°æ³°"
 			}, {
 				"id": 856,
 				"spell": "xinxing",
-				"name": "ĞÂĞË"
+				"name": "æ–°å…´"
 			}, {
 				"id": 857,
 				"spell": "xinyi",
-				"name": "ĞÂÒÊ"
+				"name": "æ–°æ²‚"
 			}, {
 				"id": 858,
 				"spell": "xinyi",
-				"name": "ĞÅÒË"
+				"name": "ä¿¡å®œ"
 			}, {
 				"id": 859,
 				"spell": "xinzheng",
-				"name": "ĞÂÖ£"
+				"name": "æ–°éƒ‘"
 			}, {
 				"id": 860,
 				"spell": "xiuning",
-				"name": "ĞİÄş"
+				"name": "ä¼‘å®"
 			}, {
 				"id": 861,
 				"spell": "xiushan",
-				"name": "ĞãÉ½"
+				"name": "ç§€å±±"
 			}, {
 				"id": 862,
 				"spell": "xiushui",
-				"name": "ĞŞË®"
+				"name": "ä¿®æ°´"
 			}, {
 				"id": 863,
 				"spell": "xiuwen",
-				"name": "ĞŞÎÄ"
+				"name": "ä¿®æ–‡"
 			}, {
 				"id": 864,
 				"spell": "xiuwu",
-				"name": "ĞŞÎä"
+				"name": "ä¿®æ­¦"
 			}, {
 				"id": 865,
 				"spell": "xundian",
-				"name": "Ñ°µé"
+				"name": "å¯»ç”¸"
 			}, {
 				"id": 866,
 				"spell": "xunwu",
-				"name": "Ñ°ÎÚ"
+				"name": "å¯»ä¹Œ"
 			}, {
 				"id": 867,
 				"spell": "xuwen",
-				"name": "ĞìÎÅ"
+				"name": "å¾é—»"
 			}, {
 				"id": 868,
 				"spell": "xuyi",
-				"name": "íìíô"
+				"name": "ç›±çœ™"
 			}],
 			"Y": [{
 				"id": 50,
 				"spell": "yangzhou",
-				"name": "ÑïÖİ"
+				"name": "æ‰¬å·"
 			}, {
 				"id": 51,
 				"spell": "yantai",
-				"name": "ÑÌÌ¨"
+				"name": "çƒŸå°"
 			}, {
 				"id": 298,
 				"spell": "yaan",
-				"name": "ÑÅ°²"
+				"name": "é›…å®‰"
 			}, {
 				"id": 299,
 				"spell": "yanan",
-				"name": "ÑÓ°²"
+				"name": "å»¶å®‰"
 			}, {
 				"id": 300,
 				"spell": "yanbian",
-				"name": "ÑÓ±ß"
+				"name": "å»¶è¾¹"
 			}, {
 				"id": 301,
 				"spell": "yancheng",
-				"name": "ÑÎ³Ç"
+				"name": "ç›åŸ"
 			}, {
 				"id": 302,
 				"spell": "yangjiang",
-				"name": "Ñô½­"
+				"name": "é˜³æ±Ÿ"
 			}, {
 				"id": 303,
 				"spell": "yangquan",
-				"name": "ÑôÈª"
+				"name": "é˜³æ³‰"
 			}, {
 				"id": 304,
 				"spell": "yibin",
-				"name": "ÒË±ö"
+				"name": "å®œå®¾"
 			}, {
 				"id": 305,
 				"spell": "yichang",
-				"name": "ÒË²ı"
+				"name": "å®œæ˜Œ"
 			}, {
 				"id": 306,
 				"spell": "yichun",
-				"name": "ÒÁ´º"
+				"name": "ä¼Šæ˜¥"
 			}, {
 				"id": 307,
 				"spell": "yichun",
-				"name": "ÒË´º"
+				"name": "å®œæ˜¥"
 			}, {
 				"id": 308,
 				"spell": "yilihasake",
-				"name": "ÒÁÀç¹şÈø¿Ë"
+				"name": "ä¼ŠçŠå“ˆè¨å…‹"
 			}, {
 				"id": 309,
 				"spell": "yinchuan",
-				"name": "Òø´¨"
+				"name": "é“¶å·"
 			}, {
 				"id": 310,
 				"spell": "yingkou",
-				"name": "Óª¿Ú"
+				"name": "è¥å£"
 			}, {
 				"id": 311,
 				"spell": "yingtan",
-				"name": "Ó¥Ì¶"
+				"name": "é¹°æ½­"
 			}, {
 				"id": 312,
 				"spell": "yiyang",
-				"name": "ÒæÑô"
+				"name": "ç›Šé˜³"
 			}, {
 				"id": 313,
 				"spell": "yongzhou",
-				"name": "ÓÀÖİ"
+				"name": "æ°¸å·"
 			}, {
 				"id": 314,
 				"spell": "yueyang",
-				"name": "ÔÀÑô"
+				"name": "å²³é˜³"
 			}, {
 				"id": 315,
 				"spell": "yulin",
-				"name": "ÓñÁÖ"
+				"name": "ç‰æ—"
 			}, {
 				"id": 316,
 				"spell": "yulin",
-				"name": "ÓÜÁÖ"
+				"name": "æ¦†æ—"
 			}, {
 				"id": 317,
 				"spell": "yuncheng",
-				"name": "ÔË³Ç"
+				"name": "è¿åŸ"
 			}, {
 				"id": 318,
 				"spell": "yunfu",
-				"name": "ÔÆ¸¡"
+				"name": "äº‘æµ®"
 			}, {
 				"id": 319,
 				"spell": "yushu",
-				"name": "ÓñÊ÷"
+				"name": "ç‰æ ‘"
 			}, {
 				"id": 320,
 				"spell": "yuxi",
-				"name": "ÓñÏª"
+				"name": "ç‰æºª"
 			}, {
 				"id": 869,
 				"spell": "yangchun",
-				"name": "Ñô´º"
+				"name": "é˜³æ˜¥"
 			}, {
 				"id": 870,
 				"spell": "yangdong",
-				"name": "Ñô¶«"
+				"name": "é˜³ä¸œ"
 			}, {
 				"id": 871,
 				"spell": "yanggu",
-				"name": "Ñô¹È"
+				"name": "é˜³è°·"
 			}, {
 				"id": 872,
 				"spell": "yangshan",
-				"name": "ÑôÉ½"
+				"name": "é˜³å±±"
 			}, {
 				"id": 873,
 				"spell": "yangxin",
-				"name": "ÑôĞÅ"
+				"name": "é˜³ä¿¡"
 			}, {
 				"id": 874,
 				"spell": "yangxi",
-				"name": "ÑôÎ÷"
+				"name": "é˜³è¥¿"
 			}, {
 				"id": 875,
 				"spell": "yangzhong",
-				"name": "ÑïÖĞ"
+				"name": "æ‰¬ä¸­"
 			}, {
 				"id": 876,
 				"spell": "yanshi",
-				"name": "ÙÈÊ¦"
+				"name": "åƒå¸ˆ"
 			}, {
 				"id": 877,
 				"spell": "yanshou",
-				"name": "ÑÓÊÙ"
+				"name": "å»¶å¯¿"
 			}, {
 				"id": 878,
 				"spell": "yanzhou",
-				"name": "ÙğÖİ"
+				"name": "å…–å·"
 			}, {
 				"id": 879,
 				"spell": "yichuan",
-				"name": "ÒÁ´¨"
+				"name": "ä¼Šå·"
 			}, {
 				"id": 880,
 				"spell": "yifeng",
-				"name": "ÒË·á"
+				"name": "å®œä¸°"
 			}, {
 				"id": 881,
 				"spell": "yihuang",
-				"name": "ÒË»Æ"
+				"name": "å®œé»„"
 			}, {
 				"id": 882,
 				"spell": "yilan",
-				"name": "ÒÀÀ¼"
+				"name": "ä¾å…°"
 			}, {
 				"id": 883,
 				"spell": "yiliang",
-				"name": "ÒËÁ¼"
+				"name": "å®œè‰¯"
 			}, {
 				"id": 884,
 				"spell": "yinan",
-				"name": "ÒÊÄÏ"
+				"name": "æ²‚å—"
 			}, {
 				"id": 885,
 				"spell": "yingde",
-				"name": "Ó¢µÂ"
+				"name": "è‹±å¾·"
 			}, {
 				"id": 886,
 				"spell": "yingshang",
-				"name": "ò£ÉÏ"
+				"name": "é¢ä¸Š"
 			}, {
 				"id": 887,
 				"spell": "yishui",
-				"name": "ÒÊË®"
+				"name": "æ²‚æ°´"
 			}, {
 				"id": 888,
 				"spell": "yiwu",
-				"name": "ÒåÎÚ"
+				"name": "ä¹‰ä¹Œ"
 			}, {
 				"id": 889,
 				"spell": "yixian",
-				"name": "÷ğÏØ"
+				"name": "é»Ÿå¿"
 			}, {
 				"id": 890,
 				"spell": "yixing",
-				"name": "ÒËĞË"
+				"name": "å®œå…´"
 			}, {
 				"id": 891,
 				"spell": "yiyang",
-				"name": "ß®Ñô"
+				"name": "å¼‹é˜³"
 			}, {
 				"id": 892,
 				"spell": "yiyang",
-				"name": "ÒËÑô"
+				"name": "å®œé˜³"
 			}, {
 				"id": 893,
 				"spell": "yiyuan",
-				"name": "ÒÊÔ´"
+				"name": "æ²‚æº"
 			}, {
 				"id": 894,
 				"spell": "yizheng",
-				"name": "ÒÇÕ÷"
+				"name": "ä»ªå¾"
 			}, {
 				"id": 895,
 				"spell": "yongan",
-				"name": "ÓÀ°²"
+				"name": "æ°¸å®‰"
 			}, {
 				"id": 896,
 				"spell": "yongchuan",
-				"name": "ÓÀ´¨"
+				"name": "æ°¸å·"
 			}, {
 				"id": 897,
 				"spell": "yongchun",
-				"name": "ÓÀ´º"
+				"name": "æ°¸æ˜¥"
 			}, {
 				"id": 898,
 				"spell": "yongdeng",
-				"name": "ÓÀµÇ"
+				"name": "æ°¸ç™»"
 			}, {
 				"id": 899,
 				"spell": "yongding",
-				"name": "ÓÀ¶¨"
+				"name": "æ°¸å®š"
 			}, {
 				"id": 900,
 				"spell": "yongfeng",
-				"name": "ÓÀ·á"
+				"name": "æ°¸ä¸°"
 			}, {
 				"id": 901,
 				"spell": "yongji",
-				"name": "ÓÀ¼ª"
+				"name": "æ°¸å‰"
 			}, {
 				"id": 902,
 				"spell": "yongjia",
-				"name": "ÓÀ¼Î"
+				"name": "æ°¸å˜‰"
 			}, {
 				"id": 903,
 				"spell": "yongkang",
-				"name": "ÓÀ¿µ"
+				"name": "æ°¸åº·"
 			}, {
 				"id": 904,
 				"spell": "yongning",
-				"name": "çßÄş"
+				"name": "é‚•å®"
 			}, {
 				"id": 905,
 				"spell": "yongtai",
-				"name": "ÓÀÌ©"
+				"name": "æ°¸æ³°"
 			}, {
 				"id": 906,
 				"spell": "yongxin",
-				"name": "ÓÀĞÂ"
+				"name": "æ°¸æ–°"
 			}, {
 				"id": 907,
 				"spell": "yongxiu",
-				"name": "ÓÀĞŞ"
+				"name": "æ°¸ä¿®"
 			}, {
 				"id": 908,
 				"spell": "youxi",
-				"name": "ÓÈÏª"
+				"name": "å°¤æºª"
 			}, {
 				"id": 909,
 				"spell": "youyang",
-				"name": "ÓÏÑô"
+				"name": "é…‰é˜³"
 			}, {
 				"id": 910,
 				"spell": "yuanshi",
-				"name": "ÔªÊÏ"
+				"name": "å…ƒæ°"
 			}, {
 				"id": 911,
 				"spell": "yucheng",
-				"name": "Óí³Ç"
+				"name": "ç¦¹åŸ"
 			}, {
 				"id": 912,
 				"spell": "yudu",
-				"name": "ÓÚ¶¼"
+				"name": "äºéƒ½"
 			}, {
 				"id": 913,
 				"spell": "yuexi",
-				"name": "ÔÀÎ÷"
+				"name": "å²³è¥¿"
 			}, {
 				"id": 914,
 				"spell": "yugan",
-				"name": "Óà¸É"
+				"name": "ä½™å¹²"
 			}, {
 				"id": 915,
 				"spell": "yuhuan",
-				"name": "Óñ»·"
+				"name": "ç‰ç¯"
 			}, {
 				"id": 916,
 				"spell": "yujiang",
-				"name": "Óà½­"
+				"name": "ä½™æ±Ÿ"
 			}, {
 				"id": 917,
 				"spell": "yunan",
-				"name": "ÓôÄÏ"
+				"name": "éƒå—"
 			}, {
 				"id": 918,
 				"spell": "yunan",
-				"name": "ÔÆ°²"
+				"name": "äº‘å®‰"
 			}, {
 				"id": 919,
 				"spell": "yuncheng",
-				"name": "Û©³Ç"
+				"name": "éƒ“åŸ"
 			}, {
 				"id": 920,
 				"spell": "yunhe",
-				"name": "ÔÆºÍ"
+				"name": "äº‘å’Œ"
 			}, {
 				"id": 921,
 				"spell": "yunxiao",
-				"name": "ÔÆÏö"
+				"name": "äº‘éœ„"
 			}, {
 				"id": 922,
 				"spell": "yunyang",
-				"name": "ÔÆÑô"
+				"name": "äº‘é˜³"
 			}, {
 				"id": 923,
 				"spell": "yushan",
-				"name": "ÓñÉ½"
+				"name": "ç‰å±±"
 			}, {
 				"id": 924,
 				"spell": "yushu",
-				"name": "ÓÜÊ÷"
+				"name": "æ¦†æ ‘"
 			}, {
 				"id": 925,
 				"spell": "yutai",
-				"name": "ÓãÌ¨"
+				"name": "é±¼å°"
 			}, {
 				"id": 926,
 				"spell": "yutian",
-				"name": "ÓñÌï"
+				"name": "ç‰ç”°"
 			}, {
 				"id": 927,
 				"spell": "yuyao",
-				"name": "ÓàÒ¦"
+				"name": "ä½™å§š"
 			}, {
 				"id": 928,
 				"spell": "yuzhong",
-				"name": "ÓÜÖĞ"
+				"name": "æ¦†ä¸­"
 			}],
 			"Z": [{
 				"id": 52,
 				"spell": "zhangzhou",
-				"name": "ÕÄÖİ"
+				"name": "æ¼³å·"
 			}, {
 				"id": 53,
 				"spell": "zhengzhou",
-				"name": "Ö£Öİ"
+				"name": "éƒ‘å·"
 			}, {
 				"id": 54,
 				"spell": "zhongshan",
-				"name": "ÖĞÉ½"
+				"name": "ä¸­å±±"
 			}, {
 				"id": 55,
 				"spell": "zhuhai",
-				"name": "Öéº£"
+				"name": "ç æµ·"
 			}, {
 				"id": 321,
 				"spell": "zaozhuang",
-				"name": "Ôæ×¯"
+				"name": "æ£åº„"
 			}, {
 				"id": 322,
 				"spell": "zhangjiajie",
-				"name": "ÕÅ¼Ò½ç"
+				"name": "å¼ å®¶ç•Œ"
 			}, {
 				"id": 323,
 				"spell": "zhangjiakou",
-				"name": "ÕÅ¼Ò¿Ú"
+				"name": "å¼ å®¶å£"
 			}, {
 				"id": 324,
 				"spell": "zhangye",
-				"name": "ÕÅÒ´"
+				"name": "å¼ æ–"
 			}, {
 				"id": 325,
 				"spell": "zhanjiang",
-				"name": "Õ¿½­"
+				"name": "æ¹›æ±Ÿ"
 			}, {
 				"id": 326,
 				"spell": "zhaoqing",
-				"name": "ÕØÇì"
+				"name": "è‚‡åº†"
 			}, {
 				"id": 327,
 				"spell": "zhaotong",
-				"name": "ÕÑÍ¨"
+				"name": "æ˜­é€š"
 			}, {
 				"id": 328,
 				"spell": "zhenjiang",
-				"name": "Õò½­"
+				"name": "é•‡æ±Ÿ"
 			}, {
 				"id": 329,
 				"spell": "zhongwei",
-				"name": "ÖĞÎÀ"
+				"name": "ä¸­å«"
 			}, {
 				"id": 330,
 				"spell": "zhoukou",
-				"name": "ÖÜ¿Ú"
+				"name": "å‘¨å£"
 			}, {
 				"id": 331,
 				"spell": "zhoushan",
-				"name": "ÖÛÉ½"
+				"name": "èˆŸå±±"
 			}, {
 				"id": 332,
 				"spell": "zhumadian",
-				"name": "×¤Âíµê"
+				"name": "é©»é©¬åº—"
 			}, {
 				"id": 333,
 				"spell": "zhuzhou",
-				"name": "ÖêÖŞ"
+				"name": "æ ªæ´²"
 			}, {
 				"id": 334,
 				"spell": "zibo",
-				"name": "×Í²©"
+				"name": "æ·„åš"
 			}, {
 				"id": 335,
 				"spell": "zigong",
-				"name": "×Ô¹±"
+				"name": "è‡ªè´¡"
 			}, {
 				"id": 336,
 				"spell": "ziyang",
-				"name": "×ÊÑô"
+				"name": "èµ„é˜³"
 			}, {
 				"id": 337,
 				"spell": "zunyi",
-				"name": "×ñÒå"
+				"name": "éµä¹‰"
 			}, {
 				"id": 929,
 				"spell": "zanhuang",
-				"name": "ÔŞ»Ê"
+				"name": "èµçš‡"
 			}, {
 				"id": 930,
 				"spell": "zengcheng",
-				"name": "Ôö³Ç"
+				"name": "å¢åŸ"
 			}, {
 				"id": 931,
 				"spell": "zhangjiagang",
-				"name": "ÕÅ¼Ò¸Û"
+				"name": "å¼ å®¶æ¸¯"
 			}, {
 				"id": 932,
 				"spell": "zhangping",
-				"name": "ÕÄÆ½"
+				"name": "æ¼³å¹³"
 			}, {
 				"id": 933,
 				"spell": "zhangpu",
-				"name": "ÕÄÆÖ"
+				"name": "æ¼³æµ¦"
 			}, {
 				"id": 934,
 				"spell": "zhangqiu",
-				"name": "ÕÂÇğ"
+				"name": "ç« ä¸˜"
 			}, {
 				"id": 935,
 				"spell": "zhangshu",
-				"name": "ÕÁÊ÷"
+				"name": "æ¨Ÿæ ‘"
 			}, {
 				"id": 936,
 				"spell": "zhanhua",
-				"name": "Õ´»¯"
+				"name": "æ²¾åŒ–"
 			}, {
 				"id": 937,
 				"spell": "zhaoxian",
-				"name": "ÕÔÏØ"
+				"name": "èµµå¿"
 			}, {
 				"id": 938,
 				"spell": "zhaoyuan",
-				"name": "ÕĞÔ¶"
+				"name": "æ‹›è¿œ"
 			}, {
 				"id": 939,
 				"spell": "zhengding",
-				"name": "Õı¶¨"
+				"name": "æ­£å®š"
 			}, {
 				"id": 940,
 				"spell": "zhenghe",
-				"name": "ÕşºÍ"
+				"name": "æ”¿å’Œ"
 			}, {
 				"id": 941,
 				"spell": "zherong",
-				"name": "èÏÈÙ"
+				"name": "æŸ˜è£"
 			}, {
 				"id": 942,
 				"spell": "zhongmou",
-				"name": "ÖĞÄ²"
+				"name": "ä¸­ç‰Ÿ"
 			}, {
 				"id": 943,
 				"spell": "zhongxian",
-				"name": "ÖÒÏØ"
+				"name": "å¿ å¿"
 			}, {
 				"id": 944,
 				"spell": "zhouning",
-				"name": "ÖÜÄş"
+				"name": "å‘¨å®"
 			}, {
 				"id": 945,
 				"spell": "zhouzhi",
-				"name": "ÖÜÖÁ"
+				"name": "å‘¨è‡³"
 			}, {
 				"id": 946,
 				"spell": "zhuanghe",
-				"name": "×¯ºÓ"
+				"name": "åº„æ²³"
 			}, {
 				"id": 947,
 				"spell": "zhucheng",
-				"name": "Öî³Ç"
+				"name": "è¯¸åŸ"
 			}, {
 				"id": 948,
 				"spell": "zhuji",
-				"name": "Öîôß"
+				"name": "è¯¸æš¨"
 			}, {
 				"id": 949,
 				"spell": "zijin",
-				"name": "×Ï½ğ"
+				"name": "ç´«é‡‘"
 			}, {
 				"id": 950,
 				"spell": "zixi",
-				"name": "×ÊÏª"
+				"name": "èµ„æºª"
 			}, {
 				"id": 951,
 				"spell": "zoucheng",
-				"name": "×Ş³Ç"
+				"name": "é‚¹åŸ"
 			}, {
 				"id": 952,
 				"spell": "zouping",
-				"name": "×ŞÆ½"
+				"name": "é‚¹å¹³"
 			}, {
 				"id": 953,
 				"spell": "zunhua",
-				"name": "×ñ»¯"
+				"name": "éµåŒ–"
 			}]
 		}
 	}
